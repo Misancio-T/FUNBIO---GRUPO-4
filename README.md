@@ -8,7 +8,8 @@
 # Proyecto de FUNBIO - Equipo 4
 
 
-La temática para nuestro horario es ```diff
+La temática para nuestro horario es 
+```diff
 ! LESIONES MEDULARES
 
 
