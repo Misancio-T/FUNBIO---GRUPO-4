@@ -8,9 +8,8 @@
 # Proyecto de FUNBIO - Equipo 4
 
 
-La temática para nuestro horario es 
-```diff
-! LESIONES MEDULARES
+La temática para nuestro horario es @@ Lesiones Medulares @@
+
 
 
 ## Nos presentamos...
