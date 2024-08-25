@@ -1,11 +1,20 @@
-FUNBIO EQUIPO 4
+
+<p align="center">
+  <img src="[https://fundbio.github.io/images/pucp_upch.png]>
+</p>
+
+[![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
+---
+# Proyecto de FUNBIO - Equipo 4
+
+
+La temática para nuestro horario es ```diff
+! LESIONES MEDULARES
+
+
+## Nos presentamos...
 
 
 
-
-```diff
-@@ BIENVENIDO AL REPOSITORIO DEL EQUIPO 4 DEL HORARIO 1 @@
-
-# Tema: Lesiones Medulares
 
 
