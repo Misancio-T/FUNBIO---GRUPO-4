@@ -12,13 +12,13 @@
 en el semestre 2024-2 por la carrera de Ingeniería Biomédica PUCP - UPCH
 
 
-# Temática de nuestro horario 📜
+## Temática de nuestro horario 📜
 
 
 Lesiones Medulares
 
 
-# Link de nuestro repositorio 🔗
+## Link de nuestro repositorio 🔗
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> : github.com/Misancio-T/FUNBIO---GRUPO-4.git
 
@@ -44,7 +44,7 @@ Lesiones Medulares
 >
 > <p align="justify"> Soy estudiante de Ingeniería Biomédica en la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia. Busco desarrollar dispositivos médicos para mejorar la salud en el Perú. Mi objetivo es usar los conocimientos adquiridos a lo largo del curso para aplicar estas herramientas en un futuro.  </p>
 > <h4> Rol en el equipo</h4>
-> <p align="justify"> Mi rol en este proyecto es el de Diseñador 3D. Soy responsable de crear los modelos 3D basados en los bocetos y propuestas de solución desarrolladas por el equipo. Utilizo herramientas como INVENTOR, BLENDER, CINEMA 4D Y ULTIMAKER CURA para diseñar y preparar los modelos para su impresión. Mi objetivo es transformar las ideas conceptuales en modelos tangibles y funcionales, contribuyendo así al éxito del proyecto. </p>
+> <p align="justify"> Mi rol en este proyecto es el de Diseñador 3D. Soy responsable de crear los modelos 3D basados en los bocetos y propuestas de solución desarrolladas por el equipo. Utilizo herramientas como INVENTOR, BLENDER, CINEMA 4D Y ULTIMAKER CURA para diseñar y preparar los modelos para su impresión. También me encargo de gestionar y actualizar el repositorio de GitHub del equipo.  </p>
 
 <h3>Silvana Villegas Berrocal (Manufactura Digital)</h3>
 
@@ -71,7 +71,7 @@ Lesiones Medulares
 > <h4> Me presento</h4>
 > <p align="justify"> Soy estudiante de ingeniería biomédica, poseo interés en la mejora y desarrollo de prótesis para el cuerpo humano, espero trabajar con prótesis sencillas y funcionales y con algunas más complejas y especializadas. </p>
 > <h4> Rol en el equipo</h4>
-> <p align="justify"> Mi rol es diseñar circuitos electrónicos utilizando software especializado, creando esquemas detallados y simulaciones para asegurar la eficiencia y funcionalidad de los prototipos. </p>
+> <p align="justify"> Mi rol es diseñar circuitos electrónicos utilizando software especializado, creando esquemas detallados y simulaciones para asegurar la eficiencia y funcionalidad de los prototipos. También administro y actualizo el repositorio de GitHub del equipo remotamente. </p>
 
 
 
