@@ -22,11 +22,11 @@ en el semestre 2024-2 por la carrera de Ingeniería Biomédica PUCP - UPCH
 <h3>ANGIE HUÁNUCO VÁSQUEZ (Coordinadora General)</h3>
 
 > <p align="center" ><img src=""  alt="" style="width: 150px"></p>
-> <h4> Me presento</h4>>
-> <p align="justify"> Soy estudiante de Ingeniería Biomédica con interés en el desarrollo y mejora de dispositivos médicos que permitan mejorar las condiciones de vida de las personas. 
- </p>> 
- <h4> Rol en el equipo</h4>> 
- <p align="justify"> Mi rol durante el curso es de Coordinadora General. Soy responsable de supervisar el avance del proyecto en su totalidad, asegurando que cada fase se ejecute según el plan establecido. Coordino las tareas entre los diferentes miembros del equipo, facilitando la comunicación y resolviendo cualquier problema que pueda surgir. Además, me encargo de la planificación de reuniones y la elaboración de los 'entregables' respecto al progreso del proyecto. </p>
+> <h4> Me presento</h4>
+>
+> <p align="justify"> Soy estudiante de Ingeniería Biomédica con interés en el desarrollo y mejora de dispositivos médicos que permitan mejorar las condiciones de vida de las personas.  </p>
+> <h4> Rol en el equipo</h4>
+> <p align="justify"> Mi rol durante el curso es de Coordinadora General. Soy responsable de supervisar el avance del proyecto en su totalidad, asegurando que cada fase se ejecute según el plan establecido. Coordino las tareas entre los diferentes miembros del equipo, facilitando la comunicación y resolviendo cualquier problema que pueda surgir. Además, me encargo de la planificación de reuniones y la elaboración de los 'entregables' respecto al progreso del proyecto. </p>
 
 <h3>Misael Torres Bautista (Diseñador 3D)</h3>
 
@@ -59,7 +59,7 @@ en el semestre 2024-2 por la carrera de Ingeniería Biomédica PUCP - UPCH
 <h3>William Zamalloa Quispe (Diseño electrónico)</h3>
 
 > <p align="center" ><img src=""  alt="" style="width: 150px"></p>
-> <h4> Me presento</h4>>
+> <h4> Me presento</h4>
 > <p align="justify"> Soy estudiante de ingeniería biomédica, poseo interés en la mejora y desarrollo de prótesis para el cuerpo humano, espero trabajar con prótesis sencillas y funcionales y con algunas más complejas y especializadas. </p>
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Mi rol es diseñar circuitos electrónicos utilizando software especializado, creando esquemas detallados y simulaciones para asegurar la eficiencia y funcionalidad de los prototipos. </p>
