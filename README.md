@@ -11,13 +11,22 @@
 ¡Bienvenidos! Somos el Grupo 4 del Curso de Fundamentos de Biodiseño, Código: 1CAY41, dictado
 en el semestre 2024-2 por la carrera de Ingeniería Biomédica PUCP - UPCH
 
+
+# Temática de nuestro horario 📜
+
+
+Lesiones Medulares
+
+
+# Link de nuestro repositorio 🔗
+
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> : github.com/Misancio-T/FUNBIO---GRUPO-4.git
 
 
 
 
 
-## Nos presentamos...
+## Nos presentamos... 🔥
 
 <h3>ANGIE HUÁNUCO VÁSQUEZ (Coordinadora General)</h3>
 
@@ -50,7 +59,7 @@ en el semestre 2024-2 por la carrera de Ingeniería Biomédica PUCP - UPCH
 <h3>Sydnee Yampara Mamani (Prototipo Electrónico)</h3>
 
 > <p align="center" ><img src=""  alt="" style="width: 150px"></p>
-> <h4> Me presento</h4>>
+> <h4> Me presento</h4>
 > <p align="justify"> Soy estudiante de ing biomédica con objetivo de innovación e ideas de tecnología relacionada a la salud para la implementación descentralizada de equipos médicos y detección no invasiva de las distintas enfermedades. </p>
 > <h4> Rol en el equipo</h4>
 > <p align="justify"> Mi rol es diseñar y desarrollar prototipos electrónicos, incluyendo la selección de componentes y la integración de circuitos, para asegurar su funcionalidad y rendimiento. </p>
