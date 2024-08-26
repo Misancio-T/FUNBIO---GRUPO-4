@@ -3,7 +3,7 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="FunBio/Resources/Foto_William.jpg" alt="Foto de perfil" style="width: 30%; height: auto;">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Resources/Foto_William.jpg?raw=true" alt="Foto de perfil" style="width: 30%; height: auto;">
 </div>
 
 
