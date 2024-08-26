@@ -4,10 +4,10 @@
 
 <p align="center">
 ### William S. Zamalloa Quispe
-**Estudiante de ingeniería biomédica, poseo interés en la mejora y desarrollo de prótesis para el cuerpo humano, espero trabajar con prótesis sencillas y funcionales y con algunas más complejas y especializadas.**
 </p>
+**Estudiante de ingeniería biomédica, poseo interés en la mejora y desarrollo de prótesis para el cuerpo humano, espero trabajar con prótesis sencillas y funcionales y con algunas más complejas y especializadas.**
 
 <p align="center">
 #### Diseño electrónico
-Encargado de bocetar el diseño electronico del prototipo en diferentes perspectivas y modelar digitalmente la propuesta en 2 dimensiones.
 </p>
+Encargado de bocetar el diseño electronico del prototipo en diferentes perspectivas y modelar digitalmente la propuesta en 2 dimensiones.
