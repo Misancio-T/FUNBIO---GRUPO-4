@@ -1,4 +1,4 @@
-![Imagen de perfil](https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Resources/Foto_William.jpg?raw=true)
+![Imagen de perfil]<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Resources/Foto_William.jpg?raw=true" alt="Imagen de perfil" width="300"/>
 
 ### William S. Zamalloa Quispe
 **Estudiante de ingeniería biomédica, poseo interés en la mejora y desarrollo de prótesis para el cuerpo humano, espero trabajar con prótesis sencillas y funcionales y con algunas más complejas y especializadas.**
