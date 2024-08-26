@@ -8,10 +8,10 @@
 # Proyecto de FUNBIO - Equipo 4 ☕️
 
 
-La temática para nuestro horario es 
-Lesiones Medulares
+¡Bienvenidos! Somos el Grupo 4 del Curso de Fundamentos de Biodiseño, Código: 1CAY41, dictado
+en el semestre 2024-2 por la carrera de Ingeniería Biomédica PUCP - UPCH
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> : https://github.com/Misancio-T/FUNBIO---GRUPO-4.git
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> : github.com/Misancio-T/FUNBIO---GRUPO-4.git
 
 
 
