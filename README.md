@@ -53,7 +53,7 @@ Lesiones Medulares
 
 <h3>Silvana Villegas Berrocal (Manufactura Digital)</h3>
 
-> <p align="center" ><img src=""  alt="" style="width: 150px"></p>
+> <p align="center" ><img src="photos/photoSilvanaRepositorioReadme.jpeg"  alt="fotoSilvana" style="width: 150px"></p>
 > <h4> Me presento</h4>
 >
 > <p align="justify"> Soy estudiante de Ingeniería Biomédica. Mi objetivo es la investigación de los cambios del cuerpo humano en diferentes ambientes para maximizar las capacidades físicas. </p>
@@ -75,7 +75,7 @@ Lesiones Medulares
 
 <h3>William Zamalloa Quispe (Diseño electrónico)</h3>
 
-> <p align="center" ><img src="photos/photoWilliamRepositorioreadme.jpeg"  alt="fotoWilliam" style="width: 150px"></p>
+> <p align="center" ><img src="photos/photoWilliamRepositorioreadme.jpg"  alt="fotoWilliam" style="width: 150px"></p>
 > <h4> Me presento</h4>
 > <p align="justify"> Soy estudiante de ingeniería biomédica, poseo interés en la mejora y desarrollo de prótesis para el cuerpo humano, espero trabajar con prótesis sencillas y funcionales y con algunas más complejas y especializadas. </p>
 > <h4> Rol en el equipo</h4>
