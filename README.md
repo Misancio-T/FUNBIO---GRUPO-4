@@ -42,7 +42,7 @@ Lesiones Medulares
 
 <h3>Misael Torres Bautista (Diseñador 3D)</h3>
 
-> <p align="center" ><img src=""  alt="" style="width: 150px"></p>
+> <p align="center" ><img src="photos/photoMisaelRepositorioreadme.jpeg"  alt="fotoMisael" style="width: 150px"></p>
 > <h4> Me presento</h4>
 >
 > <p align="justify"> Soy estudiante de Ingeniería Biomédica en la Pontificia Universidad Católica del Perú y la Universidad Peruana Cayetano Heredia. Busco desarrollar dispositivos médicos para mejorar la salud en el Perú. Mi objetivo es usar los conocimientos adquiridos a lo largo del curso para aplicar estas herramientas en un futuro.  </p>
