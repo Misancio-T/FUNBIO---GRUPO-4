@@ -50,7 +50,7 @@ También, observamos que el promedio de esperanza de vida de las personas con SC
 La falta de independencia en actividades cotidianas afecta al paciente  en funciones físicas, biológicas y psicológicas
 
 ## 7. Contexto científico
-| Título | Resumen | Imagen referencial |
+**| Título | Resumen | Imagen referencial |**
 |-----------|------------|-----------------------|
 | Diseño de un exoesqueleto robótico de extremidades inferiores para el control del equilibrio de parapléjicos | En este artículo se propone un exoesqueleto robótico para extremidades inferiores que permite mantener el equilibrio de un paciente parapléjico durante la marcha | dsa |
 | Diseño de ayuda técnica para terapia física enfocada a personas con paraplejia: revisión de la literatura | El artículo de la revista habla acerca de la utilidad del uso de la tecnología para ayudar en la rehabilitación de pacientes que tienen lesiones medulares | dsa |
