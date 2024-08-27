@@ -34,6 +34,7 @@ También, observamos que el promedio de esperanza de vida de las personas con SC
 <p align="center">
   <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_2.png?raw=true" alt="Descripción de la imagen" width="100%">
 </p>
+
 ## 5. Diagrama de Ishikawa
 
 <imagen>
