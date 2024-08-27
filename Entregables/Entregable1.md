@@ -11,27 +11,29 @@ La electroporación reversiEn nuestro país no hay estudios de incidencia, ni pr
 El sistema de diagnóstico y tratamiento que se realizan en nuestro país es clásico y tiene como objetivo disminuir la morbilidad y mortalidad derivada de las lesiones medulares, para esto se realizan un proceso de actividades como: Solicitar exámenes de laboratorio, estudios de imágenes; interconsultas; terapias físicas; instaurar medidas de prevención y dispositivos (camas especializadas, sillas, cojines); tratamiento farmacológico; orientación y consejos sobre sexualidad, fertilidad y gestación;  evaluaciones conductuales, psicológicas y psiquiátricas; etc.
 Para clasificar a cada paciente, nuestros centros de rehabilitación siguen los Estándares Internacionales para la Clasificación Neurológica de la Lesión de la Médula Espinal (ISNCSCI), lo cual nos permite hacer un mejor enfoque en las zonas con repercusiones.
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_1.png?raw=true" alt="Descripción de la imagen" width="50%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_3.png?raw=true" alt="Descripción de la imagen" width="50%">
 </p>
 En el aspecto de hospitalización, nuestro protocolo se basa en evaluar el grado de lesión que tiene el paciente y asignarle un tratamiento adecuado que depende de cada caso presentado en el Instituto Nacional de Rehabilitación; algunas de las prácticas que se hacen en el área de hospitalización son: Aplicar técnicas atraumáticas de inserción de catéter; retirar SVP prontamente y reeducar las vías urinarias, si no hay contraindicaciones; cuidados de la piel y cambios posturales activos o pasivos; seguimiento de un plan nutricional especial para cada paciente y manejo conjunto para entrenamiento en movilizaciones y/o transferencias mediante técnicas seguras con apoyos técnicos y/o asistencia requerida según funcionalidad, asimismo, entrenamiento de técnicas de caídas y reincorporación a la silla de ruedas.
 Según la Revista Médica Herediana, las revisiones sobre la repercusión de la lesión medular hacen referencia de lo complejo que resulta para una persona portadora de una lesión medular y su familia convivir con esta condición. Los aspectos psicosociales, especialmente el apoyo social, son tan importantes como los aspectos clínicos cuando se habla de la calidad de vida en las personas que presentan una lesión medular espinal (LME). Sin embargo, cabe mencionar que se han encontrado pocos estudios sobre la repercusión familiar y apoyo social en las familias de personas con lesión medular, la mayoría de estudios estuvieron relacionados a la discapacidad como tema general. La población de estudio observada a continuación estuvo conformada por todos los familiares de pacientes con LME que se encontraron hospitalizados y recibieron tratamiento de rehabilitación desde Septiembre a diciembre del 2019 [5].
-
-<imagen> 
-<imagen>
-
+<p align="center">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Descripción de la imagen" width="50%">
+</p>
+<p align="center">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_5.png?raw=true" alt="Descripción de la imagen" width="65%">
+</p>
 Se encontró que los pacientes de 18 a más años tienen menos prevalencia de repercusión familiar severa que los pacientes que tienen de 12 a 17 años, lo que podría explicarse porque en los adolescentes se acentúan los cambios que presentan en su cuerpo y corporalidad en el cambio de la imagen de sí mismo, las relaciones contradictorias   principalmente   con   su   familia   y   amigos, la carga de la discapacidad y el proceso de adaptación a su condición. También, el 44% de los pacientes y el 58% de los familiares tenían entre 30 y 59 años. El 34% de los cuidadores eran cónyuges del paciente, el 48% era familia de tipo nuclear y el 62% de las familias pertenecieron al nivel socioeconómico de pobreza extrema. El 78% de los pacientes tenían paraplejía y el 48% lesión tipo ASIA A. La repercusión global, fue elevada en 68% y con un sentido negativo en 94% de los casos [5].
 Los  resultados  de  esta  investigación  se  deben  interpretar  con  cautela,  primero,  no  se  tuvo  el  poder  estadístico  suficiente  para  encontrar  la  asociación entre   el   apoyo   social   y   la   repercusión   familiar   ya  que  no  se  calculó  tamaño  de  muestra  porque  no  se  encontraron  datos  de  otras  investigaciones que sean de utilidad para dicho cálculo, por lo que, solo se evaluaron a todos los familiares de los pacientes con lesión medular que cumplan los criterios de  selección  en  un  periodo  de  tres  meses.  Segundo, el apoyo social y repercusión familiar podría variar dependiendo del nivel de atención, categorización y ubicación de la institución prestadora de servicios de salud en los que los pacientes y familiares se atienden; incluso si éstos no están institucionalizados [5].
 ## 4. Contexto mundial 
 A nivel mundial, las lesiones medulares (SCI)  son una de las principales causas de discapacidad de larga duración, las estimaciones indican que aproximadamente 15,4 millones de personas tenían una lesión en la médula espinal en 2021 [1] .Las estadísticas que muestra el Centro Nacional de Estadística sobre Lesiones de la Médula Espinal (NSCISC) indican lo siguiente:
 Los accidentes automovilísticos son la principal causa de lesiones más reciente, seguidos de cerca por las caídas. Los actos de violencia (en primer lugar, las heridas de bala) y las actividades deportivas/recreativas también son causas relativamente frecuentes  [3].
-
-<imagen>
-
+<p align="center">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_1.png?raw=true" alt="Descripción de la imagen" width="50%">
+</p>
 A nivel neurológico y magnitud de lesión la tetraplejia incompleta es la categoría neurológica más frecuente. La frecuencia de la paraplejia incompleta y la completa es prácticamente la misma. Menos del 1 % de las personas tuvieron una recuperación neurológica completa para cuando recibieron el alta médica  [3].
 También, observamos que el promedio de esperanza de vida de las personas con SCI no ha mejorado desde la década de 1980 al 2015 y sigue estando muy por debajo de la esperanza de vida de las personas sin SCI. Los índices de mortalidad son considerablemente más altos durante el primer año después de la lesión que en los años siguientes, sobre todo en el caso de las personas con un deterioro neurológico más grave [3].
-
-<imagen>
-
+<p align="center">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_2.png?raw=true" alt="Descripción de la imagen" width="100%">
+</p>
 ## 5. Diagrama de Ishikawa
 
 <imagen>
