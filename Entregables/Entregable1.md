@@ -42,12 +42,11 @@ También, observamos que el promedio de esperanza de vida de las personas con SC
 </p>
 
 ## 5. Diagrama de Ishikawa
-
-<imagen>
+<p align="center">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_6.png?raw=true" alt="Descripción de la imagen" width="100%">
+</p>
 
 ## 6. Definición de problematicas
 La falta de independencia en actividades cotidianas afecta al paciente  en funciones físicas, biológicas y psicológicas
 
 ## 7. Contexto científico
-
-<imagen>
