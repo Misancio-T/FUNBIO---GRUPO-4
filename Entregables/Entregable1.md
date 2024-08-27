@@ -53,3 +53,5 @@ La falta de independencia en actividades cotidianas afecta al paciente  en funci
 | Título | Resumen | Imagen referencial |
 |-----------|------------|-----------------------|
 | Diseño de un exoesqueleto robótico de extremidades inferiores para el control del equilibrio de parapléjicos | En este artículo se propone un exoesqueleto robótico para extremidades inferiores que permite mantener el equilibrio de un paciente parapléjico durante la marcha | dsa |
+| Diseño de ayuda técnica para terapia física enfocada a personas con paraplejia: revisión de la literatura | El artículo de la revista habla acerca de la utilidad del uso de la tecnología para ayudar en la rehabilitación de pacientes que tienen lesiones medulares | dsa |
+| Nuevas tecnologías en neurorrehabilitación aplicadas al tratamiento del paciente con lesión medular | El artículo propone el uso de un exoesqueleto portable para mayor independencia en la movilidad del paciente utilizando la señal eléctrica del cerebro a través de electrodos implantados para manejar los dispositivos | dsa |
