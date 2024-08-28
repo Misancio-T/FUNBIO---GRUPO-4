@@ -59,8 +59,8 @@ La falta de independencia en actividades cotidianas afecta al paciente  en funci
 | Enhanced Robot Arm at the Edge with NLP and Vision Systems | Brazo robótico que puede interpretar y ejecutar comandos complejos a través de instrucciones de lenguaje natural usando LLMs/ GPT. Eficaz para usuarios con discapacidad (como lesión medular) que necesiten asistencia natural para su vida diaria. | <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Descripción de la imagen" width="150%"> |
 
 ## 8. Bibliografía
--- [1] : World Health Organization: WHO. (2024, 16 abril). Lesión de la médula espinal. https://www.who.int/es/news-room/fact-sheets/detail/spinal-cord-injury
--- [2] : Lesión medular espinal | Hospital Nacional de Paraplejicos. (s. f.). https://hnparaplejicos.sanidad.castillalamancha.es/es/pacientes/lesion-medular
--- [3] : National Spinal Cord Injury Statistical Center, Facts and Figures at a Glance. Birmingham, AL: University of Alabama at Birmingham, 2021 https://msktc.org/sites/default/files/FactsFigures2021-Spanish-508.pdf
--- [4] : Resolución Directoral Nº 200-2021-SA-DG-INR , Instituto Nacional de Rehabilitación - Plataforma del Estado Peruano. https://www.gob.pe/institucion/inr/buscador?term=200-2021&institucion=inr&topic_id=&contenido=&sort_by=none
--- [5] : Chávez-Cristóbal, O. (2022). Repercusión familiar y apoyo social en familias de pacientes con lesión medular. Revista Médica Herediana, 33(2), 102-112. https://doi.org/10.20453/rmh.v33i2.4243
+- [1] : World Health Organization: WHO. (2024, 16 abril). Lesión de la médula espinal. https://www.who.int/es/news-room/fact-sheets/detail/spinal-cord-injury
+- [2] : Lesión medular espinal | Hospital Nacional de Paraplejicos. (s. f.). https://hnparaplejicos.sanidad.castillalamancha.es/es/pacientes/lesion-medular
+- [3] : National Spinal Cord Injury Statistical Center, Facts and Figures at a Glance. Birmingham, AL: University of Alabama at Birmingham, 2021 https://msktc.org/sites/default/files/FactsFigures2021-Spanish-508.pdf
+- [4] : Resolución Directoral Nº 200-2021-SA-DG-INR , Instituto Nacional de Rehabilitación - Plataforma del Estado Peruano. https://www.gob.pe/institucion/inr/buscador?term=200-2021&institucion=inr&topic_id=&contenido=&sort_by=none
+- [5] : Chávez-Cristóbal, O. (2022). Repercusión familiar y apoyo social en familias de pacientes con lesión medular. Revista Médica Herediana, 33(2), 102-112. https://doi.org/10.20453/rmh.v33i2.4243
