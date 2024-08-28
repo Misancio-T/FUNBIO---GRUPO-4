@@ -5,7 +5,8 @@
 
 [![pucp.png](https://i.postimg.cc/XYL9GXMR/pucp.png)](https://postimg.cc/rDdD7Vwj)
 ---
-<b><p align="center"> Proyecto de FUNBIO - Equipo 4 ☕️ </b>
+
+<h1><p align="center"> Proyecto de FUNBIO - Equipo 4 ☕️ </p></h1>
 
 ¡Bienvenidos! Somos el Grupo 4 del Curso de Fundamentos de Biodiseño, Código: 1CAY41, dictado
 en el semestre 2024-2 por la carrera de Ingeniería Biomédica PUCP - UPCH
