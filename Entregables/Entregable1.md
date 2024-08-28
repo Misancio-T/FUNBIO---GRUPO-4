@@ -37,7 +37,7 @@ Los accidentes automovilísticos son la principal causa de lesiones más recient
 </p>
 A nivel neurológico y magnitud de lesión la tetraplejia incompleta es la categoría neurológica más frecuente. La frecuencia de la paraplejia incompleta y la completa es prácticamente la misma. Menos del 1 % de las personas tuvieron una recuperación neurológica completa para cuando recibieron el alta médica  [3].
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_1.png?raw=true" alt="Descripción de la imagen" width="50%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_1.png?raw=true" alt="Descripción de la imagen" width="60%">
 </p>
 También, observamos que el promedio de esperanza de vida de las personas con SCI no ha mejorado desde la década de 1980 al 2015 y sigue estando muy por debajo de la esperanza de vida de las personas sin SCI. Los índices de mortalidad son considerablemente más altos durante el primer año después de la lesión que en los años siguientes, sobre todo en el caso de las personas con un deterioro neurológico más grave [3].
 <p align="center">
