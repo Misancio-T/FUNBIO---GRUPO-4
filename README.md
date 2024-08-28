@@ -26,7 +26,7 @@ Lesiones Medulares
 
 
 
-## Nos presentamos... 🔥
+## Nos presentamos... 
 
 <h3>ANGIE HUÁNUCO VÁSQUEZ (Coordinadora General)</h3>
 
