@@ -30,7 +30,7 @@ Lesiones Medulares
 
 <h3>ANGIE HUÁNUCO VÁSQUEZ (Coordinadora General)</h3>
 
-> <p align="center" ><img src=""  alt="" style="width: 150px"></p>
+> <p align="center" ><img src="photos/photoAngieRepositorioReadme.jpeg"  alt="fotoAngie" style="width: 150px"></p>
 > <h4> Me presento</h4>
 >
 > <p align="justify"> Soy estudiante de Ingeniería Biomédica con interés en el desarrollo y mejora de dispositivos médicos que permitan mejorar las condiciones de vida de las personas.  </p>
@@ -65,7 +65,7 @@ Lesiones Medulares
 
 <h3>Sydnee Yampara Mamani (Prototipo Electrónico)</h3>
 
-> <p align="center" ><img src=""  alt="" style="width: 150px"></p>
+> <p align="center" ><img src="photos/photoSydneeRepositorioReadme.jpeg"  alt="fotoSydnee" style="width: 150px"></p>
 > <h4> Me presento</h4>
 > <p align="justify"> Soy estudiante de ing biomédica con objetivo de innovación e ideas de tecnología relacionada a la salud para la implementación descentralizada de equipos médicos y detección no invasiva de las distintas enfermedades. </p>
 > <h4> Rol en el equipo</h4>
