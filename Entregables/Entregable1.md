@@ -16,6 +16,11 @@ En nuestro país no hay estudios de incidencia, ni prevalencia de lesión medula
 El sistema de diagnóstico y tratamiento que se realizan en nuestro país es clásico y tiene como objetivo disminuir la morbilidad y mortalidad derivada de las lesiones medulares, para esto se realizan un proceso de actividades como: Solicitar exámenes de laboratorio, estudios de imágenes; interconsultas; terapias físicas; instaurar medidas de prevención y dispositivos (camas especializadas, sillas, cojines); tratamiento farmacológico; orientación y consejos sobre sexualidad, fertilidad y gestación;  evaluaciones conductuales, psicológicas y psiquiátricas; etc.
 Para clasificar a cada paciente, nuestros centros de rehabilitación siguen los Estándares Internacionales para la Clasificación Neurológica de la Lesión de la Médula Espinal (ISNCSCI), lo cual nos permite hacer un mejor enfoque en las zonas con repercusiones.
 
+<p style="line-height: 1.2;">
+<strong>Figura 1</strong><br>
+Internacional Standards for Neurological Classification of SCI (ISNCSCI) Worksheet
+</p>
+
 **Figura 1**
 
 Internacional Standards for Neurological Classification of SCI (ISNCSCI) Worksheet
