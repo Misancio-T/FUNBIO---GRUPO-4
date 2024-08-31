@@ -9,6 +9,7 @@
 
 ## 2. Desarrollo de la temática
 Los daños producidos en la médula espinal por traumatismos (caídas y accidentes de tráfico) o por causas no traumáticas, como tumores, enfermedades degenerativas y vasculares, infecciones, toxinas o defectos congénitos son definidos como una lesión medular [1].  Este hecho se concreta en la pérdida del movimiento voluntario, de la sensibilidad, además se producen trastornos neurovegetativos, alteraciones de las funciones vesical e intestinal, del sistema cardiovascular, de la función sexual, entre otras complicaciones [2]. El grado de deterioro relacionado con una lesión medular depende de la gravedad de la lesión y de su localización en la médula espinal. La lesión medular provoca la pérdida completa o incompleta de las funciones sensoriales y/o motoras por debajo del nivel de la lesión [1].
+
 Las lesiones de la médula espinal pueden afectar la capacidad para realizar actividades de la vida diaria, como caminar, utilizar los brazos, vaciar fisiológicamente el intestino o la vejiga, o lavarse y vestirse. Estas limitaciones se ven agravadas por, actitudes negativas y barreras físicas a la movilidad básica que limitan la independencia y la plena participación social, lo cual a corto plazo genera fuertes sentimientos de tristeza, culpa o inutilidad, este es motivo por el cual muchos llevan tratamientos psicológicos para poder afrontar su situación de la mejor manera.
 
 ## 3. Contexto nacional 
