@@ -20,10 +20,6 @@ Para clasificar a cada paciente, nuestros centros de rehabilitación siguen los 
 <strong>Figura 1</strong><br>
 Internacional Standards for Neurological Classification of SCI (ISNCSCI) Worksheet
 </p>
-
-**Figura 1**
-
-Internacional Standards for Neurological Classification of SCI (ISNCSCI) Worksheet
 <p align="center">
   <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_3.png?raw=true" alt="Descripción de la imagen" width="50%">
 </p>
