@@ -23,9 +23,7 @@ Internacional Standards for Neurological Classification of SCI (ISNCSCI) Workshe
   <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_3.png?raw=true" alt="Descripción de la imagen" width="50%">
 </p>
 Extraido de: https://asia-spinalinjury.org/international-standards-neurological-classification-sci-isncsci-worksheet/
-
-<div></div>
-
+<!-- asd -->
 En el aspecto de hospitalización, nuestro protocolo se basa en evaluar el grado de lesión que tiene el paciente y asignarle un tratamiento adecuado que depende de cada caso presentado en el Instituto Nacional de Rehabilitación; algunas de las prácticas que se hacen en el área de hospitalización son: Aplicar técnicas atraumáticas de inserción de catéter; retirar SVP prontamente y reeducar las vías urinarias, si no hay contraindicaciones; cuidados de la piel y cambios posturales activos o pasivos; seguimiento de un plan nutricional especial para cada paciente y manejo conjunto para entrenamiento en movilizaciones y/o transferencias mediante técnicas seguras con apoyos técnicos y/o asistencia requerida según funcionalidad, asimismo, entrenamiento de técnicas de caídas y reincorporación a la silla de ruedas.
 Según la Revista Médica Herediana, las revisiones sobre la repercusión de la lesión medular hacen referencia de lo complejo que resulta para una persona portadora de una lesión medular y su familia convivir con esta condición. Los aspectos psicosociales, especialmente el apoyo social, son tan importantes como los aspectos clínicos cuando se habla de la calidad de vida en las personas que presentan una lesión medular espinal (LME). Sin embargo, cabe mencionar que se han encontrado pocos estudios sobre la repercusión familiar y apoyo social en las familias de personas con lesión medular, la mayoría de estudios estuvieron relacionados a la discapacidad como tema general. La población de estudio observada a continuación estuvo conformada por todos los familiares de pacientes con LME que se encontraron hospitalizados y recibieron tratamiento de rehabilitación desde Septiembre a diciembre del 2019 [5].
 <p align="center">
