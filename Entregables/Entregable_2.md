@@ -2,7 +2,7 @@
 
 ## 1. Contexto comercial
 
-### Equipo o dispositivo 1: Elevador de pacientes eléctrico Molift Smart 150
+**Equipo o dispositivo 1:** Elevador de pacientes eléctrico Molift Smart 150
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
