@@ -82,7 +82,7 @@ Características:
   </div>
 
   <div style="flex: 1; max-width: 300px; text-align: right;">
-    <img src="URL_DE_LA_IMAGEN" alt="Descripción de la imagen" style="width: 100%; height: auto;">
+    <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Descripción de la imagen" style="width: 100%; height: auto;">
   </div>
 
 </div>
