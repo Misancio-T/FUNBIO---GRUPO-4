@@ -18,6 +18,7 @@ Molift Smart 150 está diseñado para ser fácilmente rodado y transportado a do
 <br/>
 <br/>
 <br/>
+<br/>
 
 ### _Equipo o dispositivo 2:_ 
 
