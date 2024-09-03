@@ -17,7 +17,7 @@ _**Características**_:<br>
 **Capacidad de elevación:** 150 kg (330,7 lb)<br> 
 **Peso:** 26 kg (57,3 lb)<br> 
 
-<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Elevador de pacientes eléctrico Molift Smart 150" width="50">
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Elevador de pacientes eléctrico Molift Smart 150" width="150">
 
 ### 	Características
 
