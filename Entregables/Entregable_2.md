@@ -98,6 +98,17 @@ Características:
 </tr>
 </table>
 
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+<td style="border: 0.5px solid white; vertical-align: top;"><img src="URL_DE_TU_IMAGEN" alt="Descripción de la imagen" style="width:300px;"></td>
+<td style="border: 0.5px solid white; vertical-align: top; text-align: right; padding-left: 10px;">
+<p style="margin: 0;">Hola</p>
+<p style="margin: 0;">¿Cómo</p>
+<p style="margin: 0;">estás?</p>
+</td>
+</tr>
+</table>
+
 
 ## 2. Lista de requerimientos
 
