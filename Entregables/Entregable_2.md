@@ -10,12 +10,12 @@ Molift Smart 150 está diseñado para ser fácilmente rodado y transportado a do
 </p>
 
 Características:<br> 
-**Accionamiento:** eléctrico
-**Configuración:** con ruedas
-**Opciones:** elevadora, transportable, plegable
-**Materiales:** Acero inoxidable y aluminio
-**Capacidad de elevación:** 150 kg (330,7 lb)
-**Peso:** 26 kg (57,3 lb)
+**Accionamiento:** eléctrico<br> 
+**Configuración:** con ruedas<br> 
+**Opciones:** elevadora, transportable, plegable<br> 
+**Materiales:** Acero inoxidable y aluminio<br> 
+**Capacidad de elevación:** 150 kg (330,7 lb)<br> 
+**Peso:** 26 kg (57,3 lb)<br> 
 
 
 ## 2. Lista de requerimientos
