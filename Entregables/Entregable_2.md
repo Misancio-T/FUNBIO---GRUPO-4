@@ -59,6 +59,21 @@ Características:
   </tr>
 </table>
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+  <div style="flex: 1; padding-right: 20px;">
+    <p>Características:</p>
+    <p><strong>Accionamiento:</strong> eléctrico</p>
+    <p>estas</p>
+  </div>
+
+  <div style="flex: 1;">
+    <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Ejemplo" style="width: 100%; max-width: 300px;">
+  </div>
+
+</div>
+
+
 
 ## 2. Lista de requerimientos
 
