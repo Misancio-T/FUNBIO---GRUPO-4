@@ -73,6 +73,19 @@ Características:
 
 </div>
 
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+  <div style="flex: 1; padding-right: 20px;">
+    <p>Características:</p>
+    <p><strong>Accionamiento:</strong> eléctrico</p>
+    <p>estas</p>
+  </div>
+
+  <div style="flex: 1; max-width: 300px; text-align: right;">
+    <img src="URL_DE_LA_IMAGEN" alt="Descripción de la imagen" style="width: 100%; height: auto;">
+  </div>
+
+</div>
 
 
 ## 2. Lista de requerimientos
