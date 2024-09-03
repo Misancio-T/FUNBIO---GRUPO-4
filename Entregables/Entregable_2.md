@@ -31,83 +31,13 @@ Características:
   <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Ejemplo" style="width: 40%; height: auto;">
 </div>
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1; padding-right: 10px;">
 Características: 
 **Accionamiento:** eléctrico
 **Configuración:** con ruedas
 **Opciones:** elevadora, transportable, plegable
 **Materiales:** Acero inoxidable y aluminio
 **Capacidad de elevación:** 150 kg (330,7 lb)
-**Peso:** 26 kg (57,3 lb)</p>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Ejemplo" style="max-width: 100%;">
-  </div>
-</div>
-
-<table style="border: none; width: 100%;">
-  <tr>
-    <td style="border: none; vertical-align: top;">
-      <p>Características:</p>
-      <p>**Accionamiento:** eléctrico</p>
-      <p>estas</p>
-    </td>
-    <td style="border: none; text-align: right;">
-      <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Ejemplo" style="width: 200px;">
-    </td>
-  </tr>
-</table>
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-  <div style="flex: 1; padding-right: 20px;">
-    <p>Características:</p>
-    <p><strong>Accionamiento:</strong> eléctrico</p>
-    <p>estas</p>
-  </div>
-
-  <div style="flex: 1;">
-    <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Ejemplo" style="width: 100%; max-width: 300px;">
-  </div>
-
-</div>
-
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-
-  <div style="flex: 1; padding-right: 20px;">
-    <p>Características:</p>
-    <p><strong>Accionamiento:</strong> eléctrico</p>
-    <p>estas</p>
-  </div>
-
-  <div style="flex: 1; max-width: 300px; text-align: right;">
-    <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Descripción de la imagen" style="width: 100%; height: auto;">
-  </div>
-
-</div>
-
-<table style="border-collapse: collapse; width: 100%;">
-<tr>
-<td style="border: none; vertical-align: top;"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Descripción de la imagen" style="width:300px;"></td>
-<td style="border: none; vertical-align: top; text-align: right; padding-left: 10px;">
-<p style="margin: 0;">Hola</p>
-<p style="margin: 0;">¿Cómo</p>
-<p style="margin: 0;">estás?</p>
-</td>
-</tr>
-</table>
-
-<table style="border-collapse: collapse; width: 100%;">
-<tr>
-<td style="border: 0.5px solid white; vertical-align: top;"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Descripción de la imagen" style="width:300px;"></td>
-<td style="border: 0.5px solid white; vertical-align: top; text-align: right; padding-left: 10px;">
-<p style="margin: 0;">Hola</p>
-<p style="margin: 0;">¿Cómo</p>
-<p style="margin: 0;">estás?</p>
-</td>
-</tr>
-</table>
+**Peso:** 26 kg (57,3 lb)
 
 
 ## 2. Lista de requerimientos
