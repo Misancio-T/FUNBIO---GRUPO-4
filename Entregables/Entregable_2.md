@@ -87,6 +87,17 @@ Características:
 
 </div>
 
+<table style="border-collapse: collapse; width: 100%;">
+<tr>
+<td style="border: none; vertical-align: top;"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Descripción de la imagen" style="width:300px;"></td>
+<td style="border: none; vertical-align: top; text-align: right; padding-left: 10px;">
+<p style="margin: 0;">Hola</p>
+<p style="margin: 0;">¿Cómo</p>
+<p style="margin: 0;">estás?</p>
+</td>
+</tr>
+</table>
+
 
 ## 2. Lista de requerimientos
 
