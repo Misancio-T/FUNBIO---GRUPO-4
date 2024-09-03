@@ -20,7 +20,7 @@ Molift Smart 150 está diseñado para ser fácilmente rodado y transportado a do
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <p style="width: 50%;">
-    <strong>Características:</strong><br> 
+Características: 
 **Accionamiento:** eléctrico
 **Configuración:** con ruedas
 **Opciones:** elevadora, transportable, plegable
@@ -33,7 +33,7 @@ Molift Smart 150 está diseñado para ser fácilmente rodado y transportado a do
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1; padding-right: 10px;">
-    <p><strong>Características:</strong><br> 
+Características: 
 **Accionamiento:** eléctrico
 **Configuración:** con ruedas
 **Opciones:** elevadora, transportable, plegable
