@@ -8,15 +8,27 @@
 <strong>Descripción:</strong><br>
 Urostym® es un sistema terapéutico diseñado para la reeducación vesical y el tratamiento de disfunciones del suelo pélvico. Este dispositivo utiliza la estimulación eléctrica funcional (FES) para mejorar el control de la vejiga en personas con problemas como incontinencia urinaria o retención urinaria. Es utilizado tanto en entornos clínicos como en el hogar bajo supervisión médica.
 </p>
-<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Elevador de pacientes eléctrico Molift Smart 150" width="500">
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Pelvic Floor Rehabilitación Urostym" width="500">
 
 ### _Características_
 
 <p>- Utiliza electrodos adhesivos que se colocan en la piel, o sondas especiales para la estimulación interna en casos específicos<br/>- Puede funcionar con una batería recargable, lo que contribuye a su portabilidad y uso prolongado sin necesidad de una fuente de energía constante<br/></p>
-<br/>
-<br/>
 
-### _Equipo o dispositivo 2:_ 
+Fuente: https://www.laborie.com/product/pelvic-floor-rehabilitation/
+
+### _Equipo o dispositivo 2:_ Kegel8 V For Men
+
+<p style="line-height: 1.2;">
+<strong>Descripción:</strong><br>
+El Kegel8 V For Men es un dispositivo de biofeedback especialmente diseñado para hombres. Este dispositivo ayuda a los usuarios a realizar ejercicios de Kegel correctamente para fortalecer los músculos del suelo pélvico, lo que puede mejorar el control de la vejiga y la función urinaria. Incluye una sonda anal y un monitor que proporciona retroalimentación visual y auditiva durante los ejercicios. Incluye diferentes programas de ejercicio, fácil de usar en casa, y diseñado específicamente para las necesidades del suelo pélvico masculino.
+</p>
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_9.png?raw=true" alt="Kegel8 V For Men" width="500">
+
+### _Características_
+
+<p>- La unidad de control del Kegel8 V For Men tiene un tamaño aproximado de 12 cm de alto, 6 cm de ancho y 2 cm de grosor<br/>- La sonda anal, diseñada específicamente para hombres, tiene un diámetro aproximado de 2 cm y una longitud de 9 cm<br/>- Unidad de Control: Aproximadamente 150 gramos, Material: Generalmente fabricada con plástico de alta calidad y resistente, como ABS (Acrilonitrilo Butadieno Estireno).<br/>- Sonda Anal: Aproximadamente 70 gramos. Material: La sonda suele estar hecha de silicona médica<br/>- Utiliza corrientes eléctricas suaves que se transmiten a través de la sonda anal para estimular los músculos del suelo pélvico<br/>- El dispositivo permite ajustar la intensidad de los impulsos eléctricos según el nivel de confort y la capacidad del usuario.</p>
+
+Fuente: https://urologyhealthstore.ca/products/kegle8-for-men
 
 ## 2. Lista de requerimientos
 
