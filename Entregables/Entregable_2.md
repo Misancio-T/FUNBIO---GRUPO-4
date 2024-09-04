@@ -75,17 +75,21 @@ Fuente: https://www.standingframes.org/products/easystand-evolv-large
 
 **Bipedestador**
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_14.png?raw=true" alt="EasyStand Evolve" width="560">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_14.png?raw=true" alt="EasyStand Evolve" width="650">
 </p>
 
 **Neuroestimulador del nervio sacro**
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_15.png?raw=true" alt="EasyStand Evolve" width="560">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_15.png?raw=true" alt="EasyStand Evolve" width="650">
 </p>
 
 ## 3. Propuesta de solución
 
+**Bipedestador**
+- Este dispositivo de asistencia en bipedestación y marcha contaría con asiento ergonómico ajustable que permite al paciente alternar entre posiciones de sentado y de pie sin asistencia. Lo que busca este dispositivo  inspirado en el EasyStand Evolve y la Chairless Chair es aprovechar la fuerza y movilidad de sus miembros superiores, brindándole así independencia, mejora de movilidad y prevención de ciertas complicaciones asociadas a su inmovilidad prolongada en una silla de ruedas.
 
+**Neuroestimulador del nervio sacro**
+- Dispositivo portátil capaz de administrar impulsos eléctricos sobre el nervio sacro, que permite estimular la comunicación entre la médula y la vejiga (Lesión medular completa tipo A)
 
 ## 4. Bibliografía
 
