@@ -96,6 +96,6 @@ Fuente: https://www.standingframes.org/products/easystand-evolv-large
 - [1]  Pearce, R. (2024, 24 junio). Pelvic floor rehabilitation - Laborie. Laborie. https://www.laborie.com/product/pelvic-floor-rehabilitation/
 - [2] Urology Health Store Canada. (s. f.). Kegel8 V For Men (V2). https://urologyhealthstore.ca/products/kegle8-for-men
 - [3] Frames, S. (s. f.). EasyStand Evolv - large. Standing Frames. https://www.standingframes.org/products/easystand-evolv-large
-- [4] John, M., Yoo, P., & Inc, E. M. (2015, 21 mayo). ES2936070T3 - Sistemas para el tratamiento de la disfunción urinaria. Google Patents: https://patents.google.com/patent/ES2936070T3/es?q=(dispositivo+neuroestimulador+no+invasivo)&oq=dispositivo+neuroestimulador+no+invasivo
+- [4] John, M., Yoo, P., & Inc, E. M. (2015, 21 mayo). ES2936070T3 - Sistemas para el tratamiento de la disfunción urinaria. Google Patents: https://patents.google.com/patent/ES2936070T3/es
 - [5] Popovic, D., Veg, A., & Fatronik, F. (2007, 28 mayo). EP2170241B1 - Device for balance and body orientation support. Google Patents: https://patents.google.com/patent/EP2170241B1/es
-- [6] Iida, F., Anastasiades, B., Gunura, K., & Ethz, E. T. H. Z. (2013, 26 agosto). US20160213549A1 - Wearable Posture Assisting Device. Google Patents: https://patents.google.com/patent/US20160213549A1/en
+- [6] Iida, F., Anastasiades, B., Gunura, K., & Ethz, E. T. H. Z. (2013, 26 agosto). US20160213549A1 - Wearable Posture Assisting Device. Google Patents: https://patents.google.com/patent/US20160213549A1/en 
