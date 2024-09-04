@@ -2,11 +2,11 @@
 
 ## 1. Contexto comercial
 
-### _Equipo o dispositivo 1:_ Elevador de pacientes eléctrico Molift Smart 150
+### _Equipo o dispositivo 1:_ Pelvic Floor Rehabilitación Urostym
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-Molift Smart 150 está diseñado para ser fácilmente rodado y transportado a donde se requiera. Su diseño permite el cuidado en casas, poder viajar y además facilitar su almacenamiento. Molift Smart es plegable en una sola pieza sin necesidad de utilizar herramientas. Gracias a su bajo peso, su pequeño tamaño y su construcción única, Molift Smart 150 es fácil de maniobrar incluso en espacios estrechos. El rango de elevación de 27 - 168 cm proporciona una excelente altura máxima de elevación y al mismo tiempo se sitúa muy abajo, facilitando la elevación desde el suelo. La percha de 4 puntos estándar garantiza una posición de elevación cómoda y espaciosa para el usuario.
+Urostym® es un sistema terapéutico diseñado para la reeducación vesical y el tratamiento de disfunciones del suelo pélvico. Este dispositivo utiliza la estimulación eléctrica funcional (FES) para mejorar el control de la vejiga en personas con problemas como incontinencia urinaria o retención urinaria. Es utilizado tanto en entornos clínicos como en el hogar bajo supervisión médica.
 </p>
 
 <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Elevador de pacientes eléctrico Molift Smart 150" width="300">
@@ -15,7 +15,7 @@ Molift Smart 150 está diseñado para ser fácilmente rodado y transportado a do
 
 ### _Características_
 
-<p><strong>Accionamiento:</strong> eléctrico<br/><strong>Configuración:</strong> con ruedas<br/><strong>Opciones:</strong> elevadora, transportable, plegable<br/><strong>Materiales:</strong> Acero inoxidable y aluminio<br/><strong>Capacidad de elevación:</strong> 150 kg (330,7 lb)<br/><strong>Peso:</strong> 26 kg (57,3 lb)<br/></p>
+<p>- Utiliza electrodos adhesivos que se colocan en la piel, o sondas especiales para la estimulación interna en casos específicos<br/>Puede funcionar con una batería recargable, lo que contribuye a su portabilidad y uso prolongado sin necesidad de una fuente de energía constante<br/></p>
 <br/>
 <br/>
 <br/>
