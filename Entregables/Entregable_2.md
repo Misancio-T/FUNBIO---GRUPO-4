@@ -71,7 +71,17 @@ Fuente: https://www.standingframes.org/products/easystand-evolv-large
 
 ## 2. Lista de requerimientos
 
+¿Qué es lo que el diseño debe hacer?
 
+**Bipedestador**
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_14.png?raw=true" alt="EasyStand Evolve" width="560">
+</p>
+
+**Neuroestimulador del nervio sacro**
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_15.png?raw=true" alt="EasyStand Evolve" width="560">
+</p>
 
 ## 3. Propuesta de solución
 
