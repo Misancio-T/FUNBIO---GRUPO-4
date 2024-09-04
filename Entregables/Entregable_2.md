@@ -28,6 +28,7 @@ El Kegel8 V For Men es un dispositivo de biofeedback especialmente diseñado par
 
 <p>- La unidad de control del Kegel8 V For Men tiene un tamaño aproximado de 12 cm de alto, 6 cm de ancho y 2 cm de grosor<br/>- La sonda anal, diseñada específicamente para hombres, tiene un diámetro aproximado de 2 cm y una longitud de 9 cm<br/>- <strong>Unidad de Control:</strong> Aproximadamente 150 gramos, <strong>Material:</strong> Generalmente fabricada con plástico de alta calidad y resistente, como ABS (Acrilonitrilo Butadieno Estireno).<br/>- <strong>Sonda Anal:</strong> Aproximadamente 70 gramos. <strong>Material:</strong> La sonda suele estar hecha de silicona médica<br/>- Utiliza corrientes eléctricas suaves que se transmiten a través de la sonda anal para estimular los músculos del suelo pélvico<br/>- El dispositivo permite ajustar la intensidad de los impulsos eléctricos según el nivel de confort y la capacidad del usuario.</p>
 
+<br/>
 Fuente: https://urologyhealthstore.ca/products/kegle8-for-men
 
 ### _Equipo o dispositivo 3:_ EasyStand Evolve
@@ -41,7 +42,9 @@ El Kegel8 V For Men es un dispositivo de biofeedback especialmente diseñado par
 
 <p>- Apto para personas de 1.52 a 1.88 metros y hasta 127 kg<br/>- Incluye ruedas delanteras y traseras de 5 pulgadas con freno, actuador hidráulico manual, tapicería negra y asas de transferencia<br/></p>
 
-<img align='center' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_10.png?raw=true" alt="EasyStand Evolve" width="400">
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_10.png?raw=true" alt="EasyStand Evolve" width="600">
+</p>
 
 Fuente: https://www.standingframes.org/products/easystand-evolv-large
 
