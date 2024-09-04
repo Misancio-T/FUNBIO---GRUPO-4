@@ -10,7 +10,6 @@ Urostym® es un sistema terapéutico diseñado para la reeducación vesical y el
 </p>
 
 <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Elevador de pacientes eléctrico Molift Smart 150" width="300">
-<br/>
 
 ### _Características_
 
