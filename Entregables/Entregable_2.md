@@ -86,7 +86,7 @@ Fuente: https://www.standingframes.org/products/easystand-evolv-large
 ## 3. Propuesta de solución
 
 **Bipedestador**
-- Este dispositivo de asistencia en bipedestación y marcha contaría con asiento ergonómico ajustable que permite al paciente alternar entre posiciones de sentado y de pie sin asistencia. Lo que busca este dispositivo  inspirado en el EasyStand Evolve y la Chairless Chair es aprovechar la fuerza y movilidad de sus miembros superiores, brindándole así independencia, mejora de movilidad y prevención de ciertas complicaciones asociadas a su inmovilidad prolongada en una silla de ruedas.
+- Dispositivo de bipedestación y marcha con asiento ajustable, inspirado en el EASYSTAND EVOLVE y Chairless Chair, que permite al paciente alternar entre estar sentado y de pie de forma independiente, aprovechando la movilidad de sus brazos para mejorar su autonomía y prevenir complicaciones de inmovilidad
 
 **Neuroestimulador del nervio sacro**
 - Dispositivo portátil capaz de administrar impulsos eléctricos sobre el nervio sacro, que permite estimular la comunicación entre la médula y la vejiga (Lesión medular completa tipo A)
