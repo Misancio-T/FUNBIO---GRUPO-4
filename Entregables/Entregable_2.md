@@ -1,4 +1,4 @@
-# Titulo
+# Estado del arte y propuesta de solución
 
 ## 1. Contexto comercial
 
