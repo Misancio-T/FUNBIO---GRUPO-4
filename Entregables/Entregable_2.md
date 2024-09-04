@@ -6,7 +6,7 @@
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-**Urostym®** es un sistema terapéutico diseñado para la reeducación vesical y el tratamiento de disfunciones del suelo pélvico. Este dispositivo utiliza la estimulación eléctrica funcional (FES) para mejorar el control de la vejiga en personas con problemas como incontinencia urinaria o retención urinaria. Es utilizado tanto en entornos clínicos como en el hogar bajo supervisión médica. [1]
+<strong>Urostym®</strong> es un sistema terapéutico diseñado para la reeducación vesical y el tratamiento de disfunciones del suelo pélvico. Este dispositivo utiliza la estimulación eléctrica funcional (FES) para mejorar el control de la vejiga en personas con problemas como incontinencia urinaria o retención urinaria. Es utilizado tanto en entornos clínicos como en el hogar bajo supervisión médica. [1]
 </p>
 <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Pelvic Floor Rehabilitación Urostym" width="500">
 
@@ -35,7 +35,7 @@ Fuente: https://urologyhealthstore.ca/products/kegle8-for-men
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-El Kegel8 V For Men es un dispositivo de biofeedback especialmente diseñado para hombres. Este dispositivo ayuda a los usuarios a realizar ejercicios de Kegel correctamente para fortalecer los músculos del suelo pélvico, lo que puede mejorar el control de la vejiga y la función urinaria. Incluye una sonda anal y un monitor que proporciona retroalimentación visual y auditiva durante los ejercicios. Incluye diferentes programas de ejercicio, fácil de usar en casa, y diseñado específicamente para las necesidades del suelo pélvico masculino. [3]
+Este dispositivo está basado en un bipedestador tradicional, contiene un asiento ergonómico ajustable. Permite variar la posición del paciente, ya sea sentado o de pie. Cumple con los ‘programas de pie’ recomendados por profesionales de la salud; el paciente puede mantenerse de pie el suficiente tiempo como para prevenir problemas de osteoporosis, mejorar la circulación, la digestión, y de problemas que conlleva el estar sentado o acostado por largos periodos como prevención de las úlceras por presión, contracturas u otros. En general, estos beneficios contribuyen a una mejor salud física y mejor calidad de vida. [3]
 </p>
 
 **_Características_**
