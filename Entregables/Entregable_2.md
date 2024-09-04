@@ -47,6 +47,7 @@ El Kegel8 V For Men es un dispositivo de biofeedback especialmente diseñado par
 </p>
 
 Fuente: https://www.standingframes.org/products/easystand-evolv-large
+<br/>
 
 ### Patente 1 (Invención)
 
@@ -54,6 +55,7 @@ Fuente: https://www.standingframes.org/products/easystand-evolv-large
 |-----------------------------------------------------------------------------|
 | **Inventor (es) :** John Michael, Sasha y Yoo, Paul, B.<br/>**Procedencia :** España<br/>**Año:** 2016 |
 | <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_11.png?raw=true" alt="ES2936070 (T3)" width="380">Se describen métodos y sistemas para proporcionar terapia relacionada con trastornos urológicos. Realizaciones particulares de esta tecnología se relacionan con la estimulación del nervio safeno (SAFN) solo o en combinación con el nervio tibial posterior (PTN), el nervio plantar medial (MPN) o el nervio plano lateral. En realizaciones, los nervios son estimulados por estimuladores percutáneos, transcutáneos y/o implantados. En realizaciones, el SAFN se estimula por debajo del nivel de la rodilla o cerca del maléolo medial. Las realizaciones también describen la mejora de la estimulación nerviosa, incluida la estimulación SAFN, utilizando sistemas y métodos denominados estimulación eléctrica transcutánea mejorada (eTENS), ya que estos mejoran la excitación del tejido neural.<br/><br/><br/>Fuente: https://patents.google.com/patent/ES2936070T3 |
+<br/>
 
 ### Patente 2 (Invención)
 
@@ -61,6 +63,7 @@ Fuente: https://www.standingframes.org/products/easystand-evolv-large
 |-----------------------------------------------------------------------------|
 | **Inventor (es) :** Popovic, Dejan ; Veg, Aleksandar<br/>**Procedencia :** Rusia<br/>**Año:** 2007 |
 | <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_12.png?raw=true" alt="ES2369469 (T3)" width="380">Dispositivo de apoyo al equilibrio y orientación corporal configurado para controlar la posición corporal de personas con discapacidad sensorio-motora que les impide la bipedestación y la marcha normal, que comprende un bastidor superior (6) unido a un bastidor inferior (15) mediante varillas telescópicas (8, 9), en donde el bastidor inferior (15) comprende ruedas y el bastidor superior (6) está unido mediante elementos de suspensión a un cinturón lumbar, estando así configurada la rigidez del dispositivo para ser regulada en función del nivel de discapacidad del individuo, y proporcionando así una reducción de la carga de las piernas mediante un apoyo parcial del peso corporal; permitiendo así la terapia de la marcha en neurorrehabilitación, pero también el ejercicio tras intervenciones quirúrgicas. El dispositivo puede ajustarse para adaptarse al tamaño del individuo potencial con las sencillas herramientas.<br/><br/><br/>Fuente: https://patents.google.com/patent/ES2369469T3 |
+<br/>
 
 ### Patente 3 (Utilidad)
 
@@ -86,10 +89,10 @@ Fuente: https://www.standingframes.org/products/easystand-evolv-large
 ## 3. Propuesta de solución
 
 **Bipedestador**
-- Dispositivo de bipedestación y marcha con asiento ajustable, inspirado en el EASYSTAND EVOLVE y Chairless Chair, que permite al paciente alternar entre estar sentado y de pie de forma independiente, aprovechando la movilidad de sus brazos para mejorar su autonomía y prevenir complicaciones de inmovilidad
+- Dispositivo de bipedestación y marcha con asiento ajustable, inspirado en el EASYSTAND EVOLVE y Chairless Chair, que permite al paciente alternar entre estar sentado y de pie de forma independiente, aprovechando la movilidad de sus brazos para mejorar su autonomía y prevenir complicaciones de inmovilidad.
 
 **Neuroestimulador del nervio sacro**
-- Dispositivo portátil capaz de administrar impulsos eléctricos sobre el nervio sacro, que permite estimular la comunicación entre la médula y la vejiga (Lesión medular completa tipo A)
+- Dispositivo portátil capaz de administrar impulsos eléctricos sobre el nervio sacro, que permite estimular la comunicación entre la médula y la vejiga (Lesión medular completa tipo A).
 
 ## 4. Bibliografía
 
