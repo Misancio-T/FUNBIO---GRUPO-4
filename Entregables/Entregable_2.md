@@ -22,7 +22,7 @@ Fuente: https://www.laborie.com/product/pelvic-floor-rehabilitation/
 <strong>Descripción:</strong><br>
 El Kegel8 V For Men es un dispositivo de biofeedback especialmente diseñado para hombres. Este dispositivo ayuda a los usuarios a realizar ejercicios de Kegel correctamente para fortalecer los músculos del suelo pélvico, lo que puede mejorar el control de la vejiga y la función urinaria. Incluye una sonda anal y un monitor que proporciona retroalimentación visual y auditiva durante los ejercicios. Incluye diferentes programas de ejercicio, fácil de usar en casa, y diseñado específicamente para las necesidades del suelo pélvico masculino.
 </p>
-<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_9.png?raw=true" alt="Kegel8 V For Men" width="380">
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_9.png?raw=true" alt="Kegel8 V For Men" width="360">
 
 **_Características_**
 
@@ -43,7 +43,7 @@ El Kegel8 V For Men es un dispositivo de biofeedback especialmente diseñado par
 <p>- Apto para personas de 1.52 a 1.88 metros y hasta 127 kg<br/>- Incluye ruedas delanteras y traseras de 5 pulgadas con freno, actuador hidráulico manual, tapicería negra y asas de transferencia<br/></p>
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_10.png?raw=true" alt="EasyStand Evolve" width="600">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_10.png?raw=true" alt="EasyStand Evolve" width="560">
 </p>
 
 Fuente: https://www.standingframes.org/products/easystand-evolv-large
