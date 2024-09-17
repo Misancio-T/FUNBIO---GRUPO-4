@@ -112,7 +112,7 @@ Extraido de: https://msktc.org/sites/default/files/FactsFigures2021-Spanish-508.
 ## 5. Diagrama de Ishikawa
 <p style="line-height: 1.2;">
 <strong>Figura 4</strong><br>
-Falta de independencia en actividades cotidianas que afectan al paciente en funciones físicas, biológicas y psicológicas
+Falta de información sensorial en el cuerpo de un paciente con lesión medular.
 </p>
 <p align="center">
   <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_6.png?raw=true" alt="Descripción de la imagen" width="100%">
