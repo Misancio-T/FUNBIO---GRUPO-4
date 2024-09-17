@@ -32,22 +32,23 @@ El producto es una calzado diseñado para mejorar la sensibilidad al caminar, qu
 <br/>
 Fuente: https://patents.google.com/patent/ES2715856T3/
 
-### _Equipo o dispositivo 3:_ EasyStand Evolve
+### _Equipo o dispositivo 3:_ Walkasins by RxFunction
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-Este dispositivo está basado en un bipedestador tradicional, contiene un asiento ergonómico ajustable. Permite variar la posición del paciente, ya sea sentado o de pie. Cumple con los ‘programas de pie’ recomendados por profesionales de la salud; el paciente puede mantenerse de pie el suficiente tiempo como para prevenir problemas de osteoporosis, mejorar la circulación, la digestión, y de problemas que conlleva el estar sentado o acostado por largos periodos como prevención de las úlceras por presión, contracturas u otros. En general, estos beneficios contribuyen a una mejor salud física y mejor calidad de vida. [3]
+Walkasins es una prótesis sensorial portátil diseñada primordialmente para personas con neuropatía sensorial periférica que han perdido la sensibilidad en los pies, lo que afecta su equilibrio y aumenta el riesgo de caídas. El dispositivo funciona detectando la presión en la planta del pie mediante un sensor colocado en la plantilla. Esta información es enviada a una distancia cercana como es el tobillo y transforma esta señal en estímulos. Esos estímulos se transmiten en tiempo real a diferentes áreas de la pierna (delantera, trasera, izquierda y derecha), donde la sensibilidad de la piel todavía está presente. Esta retroalimentación vibratoria permite que el cerebro integre la nueva información sensorial, compensando la pérdida de sensación en la planta del pie. Como resultado, el usuario obtiene un mejor control de la postura y el equilibrio, lo que reduce que el paciente camine de manera inestable y pueda ocasionar caídas.
 </p>
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_16.png?raw=true" alt="Walkasins by RxFunction" width="450">
 
 **_Características_**
 
-<p>- Apto para personas de 1.52 a 1.88 metros y hasta 127 kg<br/>- Incluye ruedas delanteras y traseras de 5 pulgadas con freno, actuador hidráulico manual, tapicería negra y asas de transferencia. [3]<br/></p>
+<p><strong>Tipo:</strong> Dispositivo recetado para uso diario.<br/><strong>Sensor:</strong> Mide la presión en la plantilla del pie.<br/><strong>Unidad:</strong> Colocada en el tobillo.<br/><strong>Estímulo:</strong> Vibraciones táctiles direccionales en tiempo real.<br/><strong>Propósito:</strong> Mejora el equilibrio y la marcha.<br/><strong>Pruebas:</strong> Clínicamente comprobado para reducir caídas.<br/><strong>Diseño:</strong> No invasivo, para uso a largo plazo.<br/></p>
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_10.png?raw=true" alt="EasyStand Evolve" width="560">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_10.png?raw=true" alt="Walkasins by RxFunction" width="560">
 </p>
 
-Fuente: https://www.standingframes.org/products/easystand-evolv-large
+Fuente: https://rxfunction.com/
 
 ### Patente 1 (Invención)
 
