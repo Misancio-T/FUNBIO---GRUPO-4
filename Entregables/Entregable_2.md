@@ -8,7 +8,7 @@
 <strong>Descripción:</strong><br>
 Se describe un dispositivo electrónico alimentado por batería, que incluye uno o más sensores de presión en la zona del talón de una plantilla. Estos sensores están conectados a medios de alerta (sensorial, vibrador, luminoso o sonoro) que se activan al detectar la falta de presión adecuada. El dispositivo está protegido por una envoltura que contiene una batería recargable por energía solar, un interruptor y un temporizador para controlar su funcionamiento. Todos los componentes electrónicos se integran en la pieza durante su proceso de fabricación.
 </p>
-<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Plantilla inteligente para educar posturas al caminar" width="300">
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Plantilla inteligente para educar posturas al caminar" width="280">
 
 **_Características_**
 
