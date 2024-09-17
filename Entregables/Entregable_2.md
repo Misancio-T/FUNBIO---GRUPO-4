@@ -85,11 +85,8 @@ Fuente: https://rxfunction.com/
 
 ## 3. Propuesta de solución
 
-**Bipedestador**
-- Dispositivo de bipedestación y marcha con asiento ajustable, inspirado en el EASYSTAND EVOLVE y Chairless Chair, que permite al paciente alternar entre estar sentado y de pie de forma independiente, aprovechando la movilidad de sus brazos para mejorar su autonomía y prevenir complicaciones de inmovilidad.
-
-**Neuroestimulador del nervio sacro**
-- Dispositivo portátil capaz de administrar impulsos eléctricos sobre el nervio sacro, que permite estimular la comunicación entre la médula y la vejiga (Lesión medular completa tipo A).
+**Plantilla con sensores de presión**
+- Dispositivo enfocado en la complementación de los estímulos vestibulares capaz de detectar el contacto entre el suelo y el pie del usuario mediante sensores que permiten generar vibraciones en un paciente que realiza bipedestación y/o marcha” (Lesión medular tipo A)
 
 ## 4. Bibliografía
 
