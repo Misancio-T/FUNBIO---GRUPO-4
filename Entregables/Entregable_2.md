@@ -55,7 +55,7 @@ Fuente: https://rxfunction.com/
 | **AU2019264535 (B2) - Mobility aid** |
 |-----------------------------------------------------------------------------|
 | **Inventor (es) :** Pape, Lise S.<br/>**Procedencia :** Australia<br/>**Año:** 2019 |
-| <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_11.png?raw=true" alt="AU2019264535 (B2)" width="380">La presente invención proporciona un sistema para ayudar a un usuario a moverse, que comprende un sensor  configurado para detectar un parámetro que indica una posición del pie del usuario; La presente invención es beneficiosa porque aumenta la confianza y/o eficiencia en el movimiento, proporcionando ayudas visuales y/o táctiles para guiar al usuario.<br/><br/><br/>Fuente: https://patents.google.com/patent/AU2019264535B2/ |
+| <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_11.png?raw=true" alt="AU2019264535 (B2)" width="250">La presente invención proporciona un sistema para ayudar a un usuario a moverse, que comprende un sensor  configurado para detectar un parámetro que indica una posición del pie del usuario; La presente invención es beneficiosa porque aumenta la confianza y/o eficiencia en el movimiento, proporcionando ayudas visuales y/o táctiles para guiar al usuario.<br/><br/><br/>Fuente: https://patents.google.com/patent/AU2019264535B2/ |
 
 ### Patente 2 (Invención)
 
