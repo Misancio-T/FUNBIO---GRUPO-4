@@ -73,14 +73,12 @@ Fuente: https://rxfunction.com/
 
 ## 2. Lista de requerimientos
 
-¿Qué es lo que el diseño debe hacer?
-
-**Bipedestador**
+**Funcionales**
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_14.png?raw=true" alt="EasyStand Evolve" width="700">
 </p>
 
-**Neuroestimulador del nervio sacro**
+**No Funcionales**
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_15.png?raw=true" alt="EasyStand Evolve" width="700">
 </p>
