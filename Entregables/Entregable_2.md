@@ -2,17 +2,17 @@
 
 ## 1. Contexto comercial
 
-### _Equipo o dispositivo 1:_ Pelvic Floor Rehabilitación Urostym
+### _Equipo o dispositivo 1:_ Plantilla inteligente para educar posturas al caminar
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-<strong>Urostym®</strong> es un sistema terapéutico diseñado para la reeducación vesical y el tratamiento de disfunciones del suelo pélvico. Este dispositivo utiliza la estimulación eléctrica funcional (FES) para mejorar el control de la vejiga en personas con problemas como incontinencia urinaria o retención urinaria. Es utilizado tanto en entornos clínicos como en el hogar bajo supervisión médica. [1]
+Se describe un dispositivo electrónico alimentado por batería, que incluye uno o más sensores de presión en la zona del talón de una plantilla. Estos sensores están conectados a medios de alerta (sensorial, vibrador, luminoso o sonoro) que se activan al detectar la falta de presión adecuada. El dispositivo está protegido por una envoltura que contiene una batería recargable por energía solar, un interruptor y un temporizador para controlar su funcionamiento. Todos los componentes electrónicos se integran en la pieza durante su proceso de fabricación.
 </p>
-<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Pelvic Floor Rehabilitación Urostym" width="500">
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Plantilla inteligente para educar posturas al caminar" width="500">
 
 **_Características_**
 
-<p>- Utiliza electrodos adhesivos que se colocan en la piel, o sondas especiales para la estimulación interna en casos específicos<br/>- Puede funcionar con una batería recargable, lo que contribuye a su portabilidad y uso prolongado sin necesidad de una fuente de energía constante. [1]<br/></p>
+<p>- Sensores de presión en el talón<br/>- Medios de alerta conectados a los sensores de tipo sensorial y otro tipo de aviso como sonido o luz<br/>- Alertas luminosas y sonoras que pueden incluir el uso de mensajes pregrabados o música<br/>- Componentes alojados en envoltura independiente, la batería y medios de alerta están protegidos en una envoltura que fijarse al zapato<br/>- Conexión inalámbrica o cableada<br/>- Alimentación por batería recargable , tiene opción de recarga solar<br/>- Control y ajuste del sistema, tiene un interruptor de encendido/apagado, un temporizador y control del volumen para las alertas sonoras</p>
 
 Fuente: https://www.laborie.com/product/pelvic-floor-rehabilitation/
 
