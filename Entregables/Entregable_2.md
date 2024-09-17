@@ -22,7 +22,7 @@ Fuente: https://patentscope.wipo.int/search/es/detail.jsf?docId=WO2016181002&_ci
 <strong>Descripción:</strong><br>
 El producto es una calzado diseñado para mejorar la sensibilidad al caminar, que permite al usuario sentir los contornos del terreno a través de ella, proporcionado una retroalimentación propioceptiva mejorada. Este diseño permite que el usuario perciba movimientos de la suela y el suelo con mayor precisión, mejorando la comodidad y el control al caminar, mejorando la propiocepción.
 </p>
-<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_9.png?raw=true" alt="Calzado que incluye una construcción durable de combinación" width="360">
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Calzado que incluye una construcción durable de combinación" width="360">
 
 **_Características_**
 
