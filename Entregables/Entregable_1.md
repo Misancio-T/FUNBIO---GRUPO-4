@@ -62,7 +62,6 @@ Los resultados de esta investigación se deben interpretar con cautela, primero,
 
 A continuación, presentaremos una tabla acerca de nuestro paciente, englobando la prevención, diagnóstico, tratamiento y monitoreo de este.
 <br/>
-<br/>
 <p style="line-height: 1.2;">
 <strong>Tabla 3</strong><br>
 Profundizando en el caso del paciente
@@ -132,7 +131,7 @@ Extraido de: Elaboración propia
 </p>
 
 ## 6. Definición de problematicas
-La falta de independencia en actividades cotidianas afecta al paciente  en funciones físicas, biológicas y psicológicas
+Falta de información sensorial en el cuerpo de un paciente con lesión medular que puede realizar bipedestación y/o marcha.
 
 ## 7. Contexto científico
 | **Título** | **Autor** | **Año de publicacíón** | **Resumen** | **Enlace** |
