@@ -16,20 +16,20 @@ Se describe un dispositivo electrónico alimentado por batería, que incluye uno
 
 Fuente: https://patentscope.wipo.int/search/es/detail.jsf?docId=WO2016181002&_cid=P20-M14HPI-62809-1
 
-### _Equipo o dispositivo 2:_ Kegel8 V For Men
+### _Equipo o dispositivo 2:_ Calzado que incluye una construcción durable de combinación
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-El Kegel8 V For Men es un dispositivo de biofeedback especialmente diseñado para hombres. Este dispositivo ayuda a los usuarios a realizar ejercicios de Kegel correctamente para fortalecer los músculos del suelo pélvico, lo que puede mejorar el control de la vejiga y la función urinaria. Incluye una sonda anal y un monitor que proporciona retroalimentación visual y auditiva durante los ejercicios. Incluye diferentes programas de ejercicio, fácil de usar en casa, y diseñado específicamente para las necesidades del suelo pélvico masculino. [2]
+El producto es una calzado diseñado para mejorar la sensibilidad al caminar, que permite al usuario sentir los contornos del terreno a través de ella, proporcionado una retroalimentación propioceptiva mejorada. Este diseño permite que el usuario perciba movimientos de la suela y el suelo con mayor precisión, mejorando la comodidad y el control al caminar, mejorando la propiocepción.
 </p>
-<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_9.png?raw=true" alt="Kegel8 V For Men" width="360">
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_9.png?raw=true" alt="Calzado que incluye una construcción durable de combinación" width="360">
 
 **_Características_**
 
-<p>- La unidad de control del Kegel8 V For Men tiene un tamaño aproximado de 12 cm de alto, 6 cm de ancho y 2 cm de grosor<br/>- La sonda anal, diseñada específicamente para hombres, tiene un diámetro aproximado de 2 cm y una longitud de 9 cm<br/>- <strong>Unidad de Control:</strong> Aproximadamente 150 gramos, <strong>Material:</strong> Generalmente fabricada con plástico de alta calidad y resistente, como ABS (Acrilonitrilo Butadieno Estireno).<br/>- <strong>Sonda Anal:</strong> Aproximadamente 70 gramos. <strong>Material:</strong> La sonda suele estar hecha de silicona médica<br/>- Utiliza corrientes eléctricas suaves que se transmiten a través de la sonda anal para estimular los músculos del suelo pélvico<br/>- El dispositivo permite ajustar la intensidad de los impulsos eléctricos según el nivel de confort y la capacidad del usuario. [2]</p>
+<p>- Contiene un corte con un forro interior, cuya parte inferior está sellada con un cierre que contiene un núcleo de espuma con memoria<br/>- Un tablero Strobel flexible, que contribuye a la flexibilidad del calzado<br/>- Una suela flexible y maleable que permite al usuario sentir los contornos del terreno</p>
 
 <br/>
-Fuente: https://urologyhealthstore.ca/products/kegle8-for-men
+Fuente: https://patents.google.com/patent/ES2715856T3/
 
 ### _Equipo o dispositivo 3:_ EasyStand Evolve
 
