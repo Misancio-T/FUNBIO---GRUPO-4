@@ -62,6 +62,7 @@ Los resultados de esta investigación se deben interpretar con cautela, primero,
 
 A continuación, presentaremos una tabla acerca de nuestro paciente, englobando la prevención, diagnóstico, tratamiento y monitoreo de este.
 <br/>
+<br/>
 
 | **Prevención** | **Diagnóstico** | **Tratamiento** | **Monitoreo** |
 | ---------- | ----------- | ----------- | --------- |
