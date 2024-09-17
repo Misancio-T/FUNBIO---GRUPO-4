@@ -68,9 +68,11 @@ A continuación, presentaremos una tabla acerca de nuestro paciente, englobando 
 Profundizando en el caso del paciente
 </p>
 <p align="center">
+
 | **Prevención** | **Diagnóstico** | **Tratamiento** | **Monitoreo** |
 | ---------- | ----------- | ----------- | --------- |
 | Las lesiones medulares se pueden producir de distintas maneras, la mayor parte de ellas por accidentes. Aunque un accidente no se puede evitar, es importante que se tenga un instinto de supervivencia para evaluar por nuestra cuenta donde es posible estar parado para tener la menor probabilidad de sufrir un accidente. Luego de sufrir un accidente que pueda derivar en una lesión medular o observar algún caso, lo primero que debemos hacer es llamar a una ambulancia para un rápido diagnóstico y evitar más problemas. | La lesión se produjo debido a la caída del paciente desde un segundo piso, donde luego del golpe quedó inconsciente. El paciente presenta una lesión por fractura en D11-D12. La lesión es completa, presenta movimiento activo en los miembros superiores pero en los miembros inferiores es ausente. Debido a la lesión el paciente presenta sensación de llenado de la uretra pero no es capaz de relajar los músculos para dejar salir la orina. Adicionalmente no presenta actividad sexual. | Actualmente el paciente se encuentra en el Instituto Nacional de Rehabilitación, donde debido a su problema en la vejiga usa una sonda Foley para la extracción de esta. El paciente usa silla de ruedas para desplazarse por el entorno y gracias a su movilidad activa en los miembros superiores presenta cierta independencia. Aunque no presenta movilidad en los miembros inferiores, el paciente en ocasiones con ayuda cambia su cuerpo de posición  para evitar posibles daños por estar siempre sentado. | Tanto para nuestro paciente como para otros pacientes que presentan la misma lesión por fractura en D11-D12 luego de su tratamiento no obtienen gran monitoreo, la capacidad de poder utilizar sus miembros superiores les da independencia al menos mientras están sobre la silla de ruedas. Un monitoreo importante es estar atento con la sonda Foley, para cambiarla si es necesario y colocarla correctamente para evitar problemas. |
+
 </p>
 <p style="line/height: 1;">
 Extraido de: Elaboración propia
