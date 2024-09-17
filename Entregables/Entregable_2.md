@@ -8,7 +8,7 @@
 <strong>Descripción:</strong><br>
 Se describe un dispositivo electrónico alimentado por batería, que incluye uno o más sensores de presión en la zona del talón de una plantilla. Estos sensores están conectados a medios de alerta (sensorial, vibrador, luminoso o sonoro) que se activan al detectar la falta de presión adecuada. El dispositivo está protegido por una envoltura que contiene una batería recargable por energía solar, un interruptor y un temporizador para controlar su funcionamiento. Todos los componentes electrónicos se integran en la pieza durante su proceso de fabricación.
 </p>
-<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Plantilla inteligente para educar posturas al caminar" width="270">
+<img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_8.png?raw=true" alt="Plantilla inteligente para educar posturas al caminar" width="260">
 
 **_Características_**
 
@@ -45,7 +45,7 @@ Walkasins es una prótesis sensorial portátil diseñada primordialmente para pe
 <p><strong>Tipo:</strong> Dispositivo recetado para uso diario.<br/><strong>Sensor:</strong> Mide la presión en la plantilla del pie.<br/><strong>Unidad:</strong> Colocada en el tobillo.<br/><strong>Estímulo:</strong> Vibraciones táctiles direccionales en tiempo real.<br/><strong>Propósito:</strong> Mejora el equilibrio y la marcha.<br/><strong>Pruebas:</strong> Clínicamente comprobado para reducir caídas.<br/><strong>Diseño:</strong> No invasivo, para uso a largo plazo.<br/></p>
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_10.png?raw=true" alt="Walkasins by RxFunction" width="560">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_10.png?raw=true" alt="Walkasins by RxFunction" width="650">
 </p>
 
 Fuente: https://rxfunction.com/
