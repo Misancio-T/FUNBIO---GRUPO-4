@@ -52,10 +52,10 @@ Fuente: https://rxfunction.com/
 
 ### Patente 1 (Invención)
 
-| **ES2936070 (T3) - Sistemas para el tratamiento de la disfunción urinaria** |
+| **AU2019264535 (B2) - Mobility aid** |
 |-----------------------------------------------------------------------------|
-| **Inventor (es) :** John Michael, Sasha y Yoo, Paul, B.<br/>**Procedencia :** España<br/>**Año:** 2016 |
-| <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_11.png?raw=true" alt="ES2936070 (T3)" width="380">Se describen métodos y sistemas para proporcionar terapia relacionada con trastornos urológicos. Realizaciones particulares de esta tecnología se relacionan con la estimulación del nervio safeno (SAFN) solo o en combinación con el nervio tibial posterior (PTN), el nervio plantar medial (MPN) o el nervio plano lateral. En realizaciones, los nervios son estimulados por estimuladores percutáneos, transcutáneos y/o implantados. En realizaciones, el SAFN se estimula por debajo del nivel de la rodilla o cerca del maléolo medial. Las realizaciones también describen la mejora de la estimulación nerviosa, incluida la estimulación SAFN, utilizando sistemas y métodos denominados estimulación eléctrica transcutánea mejorada (eTENS), ya que estos mejoran la excitación del tejido neural. [4]<br/><br/><br/>Fuente: https://patents.google.com/patent/ES2936070T3 |
+| **Inventor (es) :** Pape, Lise S.<br/>**Procedencia :** Australia<br/>**Año:** 2019 |
+| <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_11.png?raw=true" alt="AU2019264535 (B2)" width="380">La presente invención proporciona un sistema para ayudar a un usuario a moverse, que comprende un sensor  configurado para detectar un parámetro que indica una posición del pie del usuario; La presente invención es beneficiosa porque aumenta la confianza y/o eficiencia en el movimiento, proporcionando ayudas visuales y/o táctiles para guiar al usuario.<br/><br/><br/>Fuente: https://patents.google.com/patent/AU2019264535B2/ |
 
 ### Patente 2 (Invención)
 
