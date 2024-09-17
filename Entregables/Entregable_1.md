@@ -61,6 +61,7 @@ Se encontró que los pacientes de 18 a más años tienen menos prevalencia de re
 Los resultados de esta investigación se deben interpretar con cautela, primero, no se tuvo el poder estadístico suficiente para encontrar la asociación entre el apoyo social y la repercusión familiar ya que no se calculó tamaño de muestra porque no se encontraron datos de otras investigaciones que sean de utilidad para dicho cálculo, por lo que, solo se evaluaron a todos los familiares de los pacientes con lesión medular que cumplan los criterios de selección en un periodo de tres meses. Segundo, el apoyo social y repercusión familiar podría variar dependiendo del nivel de atención, categorización y ubicación de la institución prestadora de servicios de salud en los que los pacientes y familiares se atienden; incluso si éstos no están institucionalizados [5].
 
 A continuación, presentaremos una tabla acerca de nuestro paciente, englobando la prevención, diagnóstico, tratamiento y monitoreo de este.
+<br/>
 
 | **Prevención** | **Diagnóstico** | **Tratamiento** | **Monitoreo** |
 | ---------- | ----------- | ----------- | --------- |
