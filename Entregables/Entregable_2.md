@@ -62,7 +62,7 @@ Fuente: https://rxfunction.com/
 | **EP2729096 (B1) - Sistemas, dispositivos y métodos para monitorear el perfil de carga bajo los pies de un paciente durante un período de carga parcial de peso** |
 |-----------------------------------------------------------------------------|
 | **Inventor (es) :** Kubiak, Erik N; North, Kylee; Hitchcock, Robert W.<br/>**Procedencia :** Alemania<br/>**Año:** 2011 |
-| <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_12.png?raw=true" alt="EP2729096 (B1)" width="380"><br/>La presente divulgación se refiere en general a sistemas, dispositivos y métodos para medir perfiles de carga bajo el pie. Más particularmente, la divulgación se refiere a sistemas, dispositivos y métodos para monitorear un perfil de carga bajo el pie de un paciente con fractura durante un período de carga parcial de peso (PWB).<br/><br/><br/>Fuente: https://patents.google.com/patent/EP2729096B1/ |
+| <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_12.png?raw=true" alt="EP2729096 (B1)" width="250"><br/>La presente divulgación se refiere en general a sistemas, dispositivos y métodos para medir perfiles de carga bajo el pie. Más particularmente, la divulgación se refiere a sistemas, dispositivos y métodos para monitorear un perfil de carga bajo el pie de un paciente con fractura durante un período de carga parcial de peso (PWB).<br/><br/><br/>Fuente: https://patents.google.com/patent/EP2729096B1/ |
 
 ### Patente 3 (Utilidad)
 
