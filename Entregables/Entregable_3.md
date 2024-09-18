@@ -2,7 +2,7 @@
 
 ## Problemática
 
-### Contexto:
+### Contexto
 
 En entorno de nuestra problemática se basa en las lesiones medulares, estas son altamente frecuentes en situaciones de alto riesgo, como accidentes de tráfico, caídas desde alturas, accidentes deportivos y también pueden ocurrir por causas internas como enfermedades o infecciones. Estas lesiones afectan a gran cantidad personas a nivel mundial cada año, provocando discapacidades severas que afectan tanto la movilidad física como la calidad de vida en general. Este tipo de trauma es uno de los más devastadores en cuanto a su impacto en la autonomía y bienestar del paciente, ya que compromete funciones vitales como el control del movimiento voluntario, la sensibilidad, la respiración, la función vesical e intestinal, etc.
 
@@ -14,7 +14,7 @@ Pérdida de retroalimentación sensorial y control motor en personas con una les
 
 ### Impacto
 
-**Impacto en los usuarios:**
+**Impacto en los usuarios**
 
 El problema de la pérdida de retroalimentación sensorial y control motor en personas con una lesión medular completa de tipo A tiene un impacto significativo tanto en la vida de los pacientes como en los sistemas de salud. Uno de los efectos principales es la pérdida de movilidad ya que la persona pierde la capacidad de controlar los músculos en las piernas, lo que significa que no puede caminar ni mantenerse de pie sin asistencia, generando de esta forma una escasa independencia de la persona.
 
@@ -22,7 +22,7 @@ Por otro lado, los pacientes en etapa de tratamiento realizan la bipedestación 
 
 La pérdida de la movilidad está asociada con ansiedad, depresión y una disminución de la calidad de vida. La adaptación a una nueva realidad sin la capacidad de caminar o moverse de forma independiente puede ser devastadora, los estudios muestran que entre el 20% y el 40% de las personas con una lesión medular experimentan algún grado de depresión clínica debido a estos cambios drásticos en su vida. [1]
 
-**Impacto en el sistema de salud:**
+**Impacto en el sistema de salud**
 
 El sistema de salud tiene una gran responsabilidad y carga al tratar a personas con este tipo de lesiones, sobre todo en nuestro país, donde la implementación de nuevas tecnologías es escasa y se suelen realizar los tratamientos convencionales que tiene como resultado una evolución lenta en la mejora de los pacientes.
 
@@ -79,15 +79,11 @@ El objetivo general del proyecto es desarrollar un sistema de feedback sensorial
 
 **Objetivos específicos**
 
-Diseño de plantillas con sensores piezoeléctricos, los sensores piezoeléctricos son eficaces para detectar presiones y movimiento en dispositivos portátiles, así como también el contacto del pie con el suelo brinda información crítica sobre la postura y los movimientos del paciente.
-
-Desarrollar el diseño de bandas vibratorias para el feedback sensorial que proporciona estímulos vibratorios específicos en respuesta a las señales captadas por los sensores, simulando la retroalimentación sensorial que falta debido a la lesión medular.
-
-La comunicación inalámbrica entre los dispositivos, se refiere a implementar un sistema de comunicación eficiente y sin cables que permite una rapidez en la interacción de los diferentes componentes del dispositivo
-
-Optimizar materiales para entornos de bajos recursos, el diseño de soluciones asequibles y portátiles es crucial para provincia y áreas rurales donde el acceso a tecnologías avanzadas es limitado.
-
-Aprobar la eficacia en pruebas clínicas necesarias asegurando de esta forma que el sistema sea seguro y efectivo, cumpliendo los requisitos médicos obligatorios y regulatorios para el uso de paciente con lesiones medulares en orden de ayudar a la medicina a través de la ingeniería biomédica.
+- Diseño de plantillas con sensores piezoeléctricos, los sensores piezoeléctricos son eficaces para detectar presiones y movimiento en dispositivos portátiles, así como también el contacto del pie con el suelo brinda información crítica sobre la postura y los movimientos del paciente.
+- Desarrollar el diseño de bandas vibratorias para el feedback sensorial que proporciona estímulos vibratorios específicos en respuesta a las señales captadas por los sensores, simulando la retroalimentación sensorial que falta debido a la lesión medular.
+- La comunicación inalámbrica entre los dispositivos, se refiere a implementar un sistema de comunicación eficiente y sin cables que permite una rapidez en la interacción de los diferentes componentes del dispositivo
+- Optimizar materiales para entornos de bajos recursos, el diseño de soluciones asequibles y portátiles es crucial para provincia y áreas rurales donde el acceso a tecnologías avanzadas es limitado.
+- Aprobar la eficacia en pruebas clínicas necesarias asegurando de esta forma que el sistema sea seguro y efectivo, cumpliendo los requisitos médicos obligatorios y regulatorios para el uso de paciente con lesiones medulares en orden de ayudar a la medicina a través de la ingeniería biomédica.
 
 ### Justificación del Prototipo
 
