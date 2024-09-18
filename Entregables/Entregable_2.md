@@ -76,7 +76,7 @@ Fuente: https://rxfunction.com/our-product/
 | **US10809804 (B2) - Wearable Haptic Feedback Glove** |
 |-----------------------------------------------------------------------------|
 | **Inventor (es) :** Goupil, Marc. Y; Rojanachaichanin, Bodin L; Sjoberg, Kurt C; Piller, Paul; Bonafede, Nicholas J; Jr; Takatsuka, Ryan M.<br/>**Procedencia :** Estados Unidos<br/>**Año:** 2020 |
-| <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_17.png?raw=true" alt="US10809804 (B2)" width="250"><br/><br/><br/>La patente describe un guante de retroalimentación háptica diseñado para mejorar la interacción con entornos virtuales y dispositivos robóticos. Este guante está hecho de un material flexible y cuenta con dedales en cada dedo y pulgar, así como tendones acoplados a estos dedales. Los tendones están conectados a actuadores que aplican presión a los dedos para proporcionar una sensación táctil. Además, el guante incluye tactores tanto en los dedales como en los paneles de la palma para ofrecer retroalimentación háptica adicional. La patente aborda la necesidad de sistemas de retroalimentación háptica que sean menos voluminosos, más sensibles e interactivos que los existentes. [7]<br/><br/><br/>Fuente: https://patents.google.com/patent/US10809804B2/ |
+| <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_17.png?raw=true" alt="US10809804 (B2)" width="300"><br/>La patente describe un guante de retroalimentación háptica diseñado para mejorar la interacción con entornos virtuales y dispositivos robóticos. Este guante está hecho de un material flexible y cuenta con dedales en cada dedo y pulgar, así como tendones acoplados a estos dedales. Los tendones están conectados a actuadores que aplican presión a los dedos para proporcionar una sensación táctil. Además, el guante incluye tactores tanto en los dedales como en los paneles de la palma para ofrecer retroalimentación háptica adicional. La patente aborda la necesidad de sistemas de retroalimentación háptica que sean menos voluminosos, más sensibles e interactivos que los existentes. [7]<br/><br/><br/>Fuente: https://patents.google.com/patent/US10809804B2/ |
 
 ## 2. Lista de requerimientos
 
@@ -97,9 +97,10 @@ Fuente: https://rxfunction.com/our-product/
 
 ## 4. Bibliografía
 
-- [1]  Pearce, R. (2024, 24 junio). Pelvic floor rehabilitation - Laborie. Laborie. https://www.laborie.com/product/pelvic-floor-rehabilitation/
-- [2] Urology Health Store Canada. (s. f.). Kegel8 V For Men (V2). https://urologyhealthstore.ca/products/kegle8-for-men
-- [3] Frames, S. (s. f.). EasyStand Evolv - large. Standing Frames. https://www.standingframes.org/products/easystand-evolv-large
-- [4] John, M., Yoo, P., & Inc, E. M. (2015, 21 mayo). ES2936070T3 - Sistemas para el tratamiento de la disfunción urinaria. Google Patents: https://patents.google.com/patent/ES2936070T3/es
-- [5] Popovic, D., Veg, A., & Fatronik, F. (2007, 28 mayo). EP2170241B1 - Device for balance and body orientation support. Google Patents: https://patents.google.com/patent/EP2170241B1/es
-- [6] Iida, F., Anastasiades, B., Gunura, K., & Ethz, E. T. H. Z. (2013, 26 agosto). US20160213549A1 - Wearable Posture Assisting Device. Google Patents: https://patents.google.com/patent/US20160213549A1/en 
+- [1] Gutierrez Perez, Paula Manuela. Plantilla inteligente para educar posturas al caminar. 2016. https://patentscope.wipo.int/search/es/detail.jsf?docId=WO2016181002&_cid=P20-M14HPI-62809-1
+- [2] Ruiz, N. D., Loverin, M. R., & Inc, W. O. (2014, 14 marzo). ES2715856T3 - Calzado que incluye una construcción durable de combinación. https://patents.google.com/patent/ES2715856T3/
+- [3] RxFunction. (2023, 8 marzo). About Walkasins. A peripheral neuropathy device. https://rxfunction.com/our-product/
+- [4] Pape, L. S., & Individual. (2014, 14 junio). AU2019264535B2 - Mobility aid. https://patents.google.com/patent/AU2019264535B2/
+- [5] Kubiak, E. N., North, K., & Hitchcock, R. W. (2011, 7 julio). EP2729096B1 - Systems, devices, and methods for monitoring an under foot load profile of a patient during a period of partial weight bearing. https://patents.google.com/patent/EP2729096B1/
+- [6] Arik Avni, Meitar (IL). Sports shoe with sensing and control. 2010. https://patents.google.com/patent/US7771371B2/
+- [7] Marc Y. Goupil ; Bodin L. Rojanachaichanin; Kurt C. Sjoberg; Paul Piller ; Nicholas J. Bonafede ; Ryan M. Takatsuka. Haptic feedback glove. 2020. https://patents.google.com/patent/US10809804B2
