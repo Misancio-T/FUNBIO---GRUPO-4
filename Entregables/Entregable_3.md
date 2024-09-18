@@ -79,9 +79,9 @@ El objetivo general del proyecto es desarrollar un sistema de feedback sensorial
 
 **Objetivos específicos**
 
-- Diseño de plantillas con sensores piezoeléctricos, los sensores piezoeléctricos son eficaces para detectar presiones y movimiento en dispositivos portátiles, así como también el contacto del pie con el suelo brinda información crítica sobre la postura y los movimientos del paciente.
+- Diseñar de plantillas con sensores piezoeléctricos, los sensores piezoeléctricos son eficaces para detectar presiones y movimiento en dispositivos portátiles, así como también el contacto del pie con el suelo brinda información crítica sobre la postura y los movimientos del paciente.
 - Desarrollar el diseño de bandas vibratorias para el feedback sensorial que proporciona estímulos vibratorios específicos en respuesta a las señales captadas por los sensores, simulando la retroalimentación sensorial que falta debido a la lesión medular.
-- La comunicación inalámbrica entre los dispositivos, se refiere a implementar un sistema de comunicación eficiente y sin cables que permite una rapidez en la interacción de los diferentes componentes del dispositivo
+- Comunicar inalámbricamente entre los dispositivos, se refiere a implementar un sistema de comunicación eficiente y sin cables que permite una rapidez en la interacción de los diferentes componentes del dispositivo
 - Optimizar materiales para entornos de bajos recursos, el diseño de soluciones asequibles y portátiles es crucial para provincia y áreas rurales donde el acceso a tecnologías avanzadas es limitado.
 - Aprobar la eficacia en pruebas clínicas necesarias asegurando de esta forma que el sistema sea seguro y efectivo, cumpliendo los requisitos médicos obligatorios y regulatorios para el uso de paciente con lesiones medulares en orden de ayudar a la medicina a través de la ingeniería biomédica.
 
