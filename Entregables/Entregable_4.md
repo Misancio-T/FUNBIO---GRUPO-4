@@ -36,7 +36,7 @@ La propuesta número 1 fue la ganadora por su acceso relativamente accesible y l
 |--------------|--------------|--------------|
 |<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_22.png?raw=true" alt="Plantilla 1" width="700"></p>|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_23.png?raw=true" alt="Plantilla 1" width="850"></p>|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_24.png?raw=true" alt="Plantilla 1" width="770"></p>|
 
-**En todas las opciones se concerva la vista lateral**
+**En todas las opciones se conserva la vista lateral**
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_25.png?raw=true" alt="Plantilla lateral" width="450">
