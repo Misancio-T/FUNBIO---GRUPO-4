@@ -30,4 +30,20 @@ La propuesta número 1 fue la ganadora por su acceso relativamente accesible y l
 
 ## Bocetos
 
-imagenes
+### En la plantilla del zapato
+
+| **Opcion 1** | **Opcion 2** | **Opcion 3** |
+|--------------|--------------|--------------|
+|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_22.png?raw=true" alt="Plantilla 1" width="800"></p>|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_23.png?raw=true" alt="Plantilla 1" width="800"></p>|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_24.png?raw=true" alt="Plantilla 1" width="800"></p>|
+
+En todas las opciones se concerva la vista lateral
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_25.png?raw=true" alt="Plantilla lateral" width="800">
+</p>
+
+### En los brazos
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_26.png?raw=true" alt="Brazos" width="800">
+</p>
