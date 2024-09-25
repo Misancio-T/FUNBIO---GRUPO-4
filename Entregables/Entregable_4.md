@@ -1,4 +1,4 @@
-# asdadsa
+# Análisis de la propuesta de solución
 
 ## Caja negra (Lista de entradas y salidas)
 
@@ -14,7 +14,9 @@
 
 ## Matriz morfológica
 
-imagen
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_21.png?raw=true" alt="Matriz morfológica" width="800">
+</p>
 
 ## Tabla de valoración
 
