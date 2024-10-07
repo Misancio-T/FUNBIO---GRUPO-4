@@ -39,7 +39,7 @@ Los pacientes con lesiones medulares requieren terapia física y ocupacional ext
 
 **Transmisión inalámbrica con ESP32:** La señal recibida por los sensores en los pies se enviarán de forma inalámbrica desde los sensores al receptor en los brazos usando la conectividad Wi-fi/Bluetooth de este chip.
 
-**Receptor vibratorio en el pecho:** Dos dispositivos vibratorios compactos, que pueden llevarse como bandas, emitirán una vibración en cada brazo cuando se reciba la señal del sensor del pie, alertando al usuario de que ha dado un paso.
+**Receptor vibratorio en el brazo:** Dos dispositivos vibratorios compactos, que pueden llevarse como bandas, emitirán una vibración en cada brazo cuando se reciba la señal del sensor del pie, alertando al usuario de que ha dado un paso.
 
 **Fuente de energía:** Baterías de Litio, son pequeñas y más sencillas de implementar en nuestro dispositivo que busca la simplicidad.
 
