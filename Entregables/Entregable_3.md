@@ -32,16 +32,16 @@ Los pacientes con lesiones medulares requieren terapia física y ocupacional ext
 
 ### Descripción de la Solución
 
-**Nuestra propuesta de solución es un Dispositivo de Alerta de Pasos en base a una retroalimentación táctil.** Este estaría compuesto por tres partes: dos en los pies (plantillas con sensores) y una en el pecho (Receptor vibratorio). Los sensores detectan cuándo el pie hace contacto con el suelo o cuando el usuario ha dado un paso. Estos sensores envían una señal al dispositivo en el pecho, que vibrará para alertar al usuario que efectivamente ha puesto un pie, proporcionando una retroalimentación táctil al usuario, el cual no llega a tener sensación física en sus pies debido a una lesión medular o uso de prótesis.
+**Nuestra propuesta de solución es un Dispositivo de Alerta de Pasos en base a una retroalimentación táctil.** Este estaría compuesto por cuatro partes: dos en los pies (dispositivos de asistencia con sensores) y dos en el pecho (Receptores vibradores). Los sensores detectan cuándo el pie hace contacto con el suelo o cuando el usuario ha dado un paso. Estos sensores envían una señal al dispositivo en los brazos, que vibrará para alertar al usuario que efectivamente ha puesto un pie, proporcionando una retroalimentación táctil al usuario, el cual no llega a tener sensación física en sus pies debido a una lesión medular o uso de prótesis.
 
 ### Características del Prototipo
-**Emplea:** Sensores piezoeléctricos, estos se encontrarán en la plantilla que estará en cada pie, y se encargará de detectar el contacto de los pies con el suelo.
+**Emplea:** Dos acelerómetros Atom, estos se encontrarán sujetos a la parte superior del calzado, y se encargará de detectar mediante mediciones de ángulos el contacto de los pies con el suelo.
 
-**Transmisión inalámbrica con ESP32:** La señal recibida por los sensores en los pies se enviarán de forma inalámbrica desde los sensores al receptor en el pecho usando la conectividad Wi-fi/Bluetooth de este chip.
+**Transmisión inalámbrica con ESP32:** La señal recibida por los sensores en los pies se enviarán de forma inalámbrica desde los sensores al receptor en los brazos usando la conectividad Wi-fi/Bluetooth de este chip.
 
-**Receptor vibratorio en el pecho:** Un dispositivo vibratorio compacto, que puede llevarse como una banda, emitirá una vibración cuando se recibe la señal del sensor del pie, alertando al usuario de que ha dado un paso.
+**Receptor vibratorio en el pecho:** Dos dispositivos vibratorios compactos, que pueden llevarse como bandas, emitirán una vibración en cada brazo cuando se reciba la señal del sensor del pie, alertando al usuario de que ha dado un paso.
 
-**Fuente de energía:** Pilas CR2025, son pequeñas, fáciles de reemplazar y más sencillas de implementar en nuestro dispositivo que busca la simplicidad.
+**Fuente de energía:** Baterías de Litio, son pequeñas y más sencillas de implementar en nuestro dispositivo que busca la simplicidad.
 
 ### Beneficios
 
@@ -58,8 +58,8 @@ Los pacientes con lesiones medulares requieren terapia física y ocupacional ext
 Hemos evaluado el desarrollo del prototipo y este es técnicamente viable utilizando componentes disponibles en el mercado, como:
 
 - ESP32 para la conectividad inalámbrica y procesamiento de señales.
-- Sensores piezoeléctricos ya ampliamente utilizados en diversos dispositivos para la detección de presión.
-- Baterías pequeñas como la CR2025, que pueden proporcionar la energía necesaria para el funcionamiento continuo del dispositivo.
+- Acelerómetros ya ampliamente utilizados en diversos dispositivos para las detecciones de ángulos y posición
+- Baterías pequeñas como las baterías de litio, pueden proporcionar la energía necesaria para el funcionamiento continuo del dispositivo.
 - Conocimientos básicos de electrónica y programación para integrar los sensores con el ESP32, configurar el sistema de transmisión y programar el mecanismo de vibración en el receptor del pecho.
 - Impresión 3D o adaptación de materiales para crear las carcasas de los componentes, como las plantillas que se colocarán en los pies y el dispositivo vibratorio del pecho.
 
@@ -79,9 +79,9 @@ El objetivo general del proyecto es desarrollar un sistema de feedback sensorial
 
 **Objetivos específicos**
 
-- Diseñar plantillas con sensores piezoeléctricos, los sensores piezoeléctricos son eficaces para detectar presiones y movimiento en dispositivos portátiles, así como también el contacto del pie con el suelo brinda información crítica sobre la postura y los movimientos del paciente.
+- Diseño de dispositivos de asistencia con acelerómetros, los sensores del tipo acelerómetro son eficaces para detectar ángulos y movimiento en dispositivos portátiles, así como también el contacto del pie con el suelo brinda información crítica sobre la postura y los movimientos del paciente.
 - Desarrollar el diseño de bandas vibratorias para el feedback sensorial que proporciona estímulos vibratorios específicos en respuesta a las señales captadas por los sensores, simulando la retroalimentación sensorial que falta debido a la lesión medular.
-- Comunicar inalámbricamente entre los dispositivos, se refiere a implementar un sistema de comunicación eficiente y sin cables que permite una rapidez en la interacción de los diferentes componentes del dispositivo
+- La comunicación inalámbrica entre los dispositivos, se refiere a implementar un sistema de comunicación eficiente y sin cables que permite una rapidez en la interacción de los diferentes componentes del dispositivo.
 - Optimizar materiales para entornos de bajos recursos, el diseño de soluciones asequibles y portátiles es crucial para provincia y áreas rurales donde el acceso a tecnologías avanzadas es limitado.
 - Aprobar la eficacia en pruebas clínicas necesarias asegurando de esta forma que el sistema sea seguro y efectivo, cumpliendo los requisitos médicos obligatorios y regulatorios para el uso de paciente con lesiones medulares en orden de ayudar a la medicina a través de la ingeniería biomédica.
 
@@ -89,21 +89,21 @@ El objetivo general del proyecto es desarrollar un sistema de feedback sensorial
 
 La propuesta de solución destaca frente a otras opciones debido a su capacidad de proporcionar retroalimentación sensorial en tiempo real. En comparación con la estimulación eléctrica funcional (FES) que utiliza impulsos eléctricos para activar nervios periféricos que controlan los músculos, enfocándose en la activación muscular, el feedback sensorial propuesto se centra en simular la sensación perdida, brindando una percepción sensorial en tiempo real que ayuda a reconectar con su cuerpo. Este producto no solo mejora la movilidad, sino que también reduce el riesgo de caídas y genera una mayor autonomía.
 
-Además, resulta tener efectos más prometedores, con sensores piezoeléctricos se enfoca en restaurar la retroalimentación sensorial, el uso de plantillas es menos invasivo, ya que simplemente se colocan en el calzado y la banda vibratoria en las extremidades superiores . Por esta razón, fortalece la conexión cerebral-sensorial, facilitando una mejor integración de la percepción corporal y permitiendo al paciente compensar la pérdida de movilidad con mayor consciencia de su cuerpo en el espacio. El uso de feedback sensorial mediante vibraciones tiene un riesgo mucho menor de fatiga muscular ya que no implica contracción muscular directa, esto permite que el sistema pueda utilizarse durante periodos más largos sin causar agotamiento. [4]
+Además, resulta tener efectos más prometedores, con sensores del tipo acelerómetro que se enfocan en restaurar la retroalimentación sensorial, el uso de estos dispositivos no es  invasivo, ya que simplemente se colocan en el calzado y la banda vibratoria en las extremidades superiores . Por esta razón, fortalece la conexión cerebral-sensorial, facilitando una mejor integración de la percepción corporal y permitiendo al paciente compensar la pérdida de movilidad con mayor consciencia de su cuerpo en el espacio. El uso de feedback sensorial mediante vibraciones tiene un riesgo mucho menor de fatiga muscular ya que no implica contracción muscular directa, esto permite que el sistema pueda utilizarse durante periodos más largos sin causar agotamiento. [4]
 
-A diferencia de otros dispositivos médicos más complejos, como los que utilizan estimulación eléctrica o prótesis sofisticadas, los componentes de nuestra propuesta son más económicos, convirtiéndose en una propuesta accesible para diferentes contextos socioeconómicos. Los sensores piezoeléctricos y las bandas vibratorias son tecnologías accesibles que pueden ser fabricadas con materiales de bajo costo, sin perder la eficiencia de su propósito.El mantenimiento y operación sencilla de los dispositivos, al no depende de estimulación eléctrica invasiva o complejos mecanismo de control reduce los costos de mantemiento.
+A diferencia de otros dispositivos médicos más complejos, como los que utilizan estimulación eléctrica o prótesis sofisticadas, los componentes de nuestra propuesta son más económicos, convirtiéndose en una propuesta accesible para diferentes contextos socioeconómicos. Los acelerómetros y las bandas vibratorias son tecnologías accesibles que pueden ser fabricadas con materiales de bajo costo, sin perder la eficiencia de su propósito.El mantenimiento y operación sencilla de los dispositivos, al no depender de estimulación eléctrica invasiva o complejos mecanismo de control reduce los costos de mantemiento.
 
-La simulación de sensaciones perdidas en los pacientes permite captar la presión y los movimientos del pies, mientras que las bandas vibratorias pueden proporcionar retroalimentación táctil en tiempo real, simulando la sensación de contacto con el suelo y la respuesta sensorial pérdida.
+La simulación de sensaciones perdidas en los pacientes permite captar la posición y los movimientos del pies, mientras que las bandas vibratorias pueden proporcionar retroalimentación táctil en tiempo real, simulando la sensación de contacto con el suelo y la respuesta sensorial pérdida.
 
 Al mejorar la capacidad sensorial y propioceptiva de los pacientes, se les brinda una mayor autonomía en sus actividades diarias. Al sentirse más seguros al caminar y moverse, pueden desarrollar una mayor independencia, lo que impacta directamente en su calidad de vida. La simplicidad y accesibilidad del dispositivo lo hace aceptable para uso cotidiano, permitiendo que los pacientes lo utilicen en múltiples escenarios sin la necesidad de equipos especializados o supervisión médica constante.
 
 Los estudios han demostrado que el feedback sensorial mejora la plasticidad neuronal, lo que ayuda a que el cerebro se readapte y fortalezca las conexiones neurales pérdidas, esto contribuye a una rehabilitación más efectiva. Con nuestro dispositivo el cuerpo podrá percibir su posición y movimiento en el espacio, el cerebro recibe información aparecida sobre la posición de las piernas a través de la retroalimentación vibratorias proporcionada por las bandas, mejorando directamente el equilibrio del paciente, reduciendo el riesgo de caídas en la rehabilitación y mejorando la capacidad de caminar independientemente.
 
-Nuestra propuesta no está limitada a pacientes con las extremidades presentes, sino también en el caso de pacientes con amputaciones o trastornos congénitos, este tipo de feedback sensorial artificial puede ser integrado en procesos para proporcionar sensaciones táctiles en puntos clave de contacto. Los sensores pueden ser colocados en las superficies de contacto entre el muñón y la prótesis, mientras que las bandas pueden ser colocadas en  partes estratégicas del cuerpo para devolver la sensación de presión al paciente. Esta simulación de la sensación de la extremidad perdida es crucial para mejorar la integración de la prótesis ayudando a los  pacientes a tener control de sus movimientos y a sentirse más conectados con la prótesis.
+Nuestra propuesta no está limitada a pacientes con las extremidades presentes, sino también en el caso de pacientes con amputaciones o trastornos congénitos, este tipo de feedback sensorial artificial puede ser integrado en procesos para proporcionar sensaciones táctiles en puntos clave de contacto. Los sensores pueden ser colocados en las superficies del calzado de las prótesis, mientras que las bandas pueden ser colocadas en  partes estratégicas del cuerpo para devolver la sensación de presión al paciente. Esta simulación de la sensación de la extremidad perdida es crucial para mejorar la integración de la prótesis ayudando a los  pacientes a tener control de sus movimientos y a sentirse más conectados con la prótesis.
 
 ### Alineación con el Problema
 
-Nuestro prototipo aborda la pérdida de retroalimentación sensorial y control motor en personas con lesiones medulares, especialmente durante la bipedestación y la marcha. Al utilizar plantillas equipadas con sensores piezoeléctricos, se capta la presión y los movimientos de los pues cuando entran en contacto con la superficie, información crítica que los pacientes no pueden percibir naturalmente. Estos sensores recopilan datos sobre la fuerza y presión, aunque los pacientes no pueden sentir directamente esta información los datos son enviados a través de bandas vibratorias, estas vibraciones actúan como una forma de sensor artificial, proporcionando al cerebro información sobre la posición y postura, ayudando al equilibrio del paciente.
+Nuestro prototipo aborda la pérdida de retroalimentación sensorial y control motor en personas con lesiones medulares, especialmente durante la bipedestación y la marcha. Al utilizar dispositivos de asistencia con acelerómetros, se capta la posición y los movimientos de los pies cuando entran en contacto con la superficie, información crítica que los pacientes no pueden percibir naturalmente. Estos sensores recopilan datos sobre la posición y los ángulos, aunque los pacientes no pueden sentir directamente esta información los datos son enviados a través de bandas vibratorias, estas vibraciones actúan como una forma de sensor artificial, proporcionando al cerebro información sobre la posición y postura, ayudando al equilibrio del paciente.
 
 ## Resumen
 
