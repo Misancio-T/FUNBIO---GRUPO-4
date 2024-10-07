@@ -131,3 +131,5 @@ Para testear el prototipo, se podría realizar **pruebas clínicas** con pacient
 - [2] World Health Organization: WHO. (2024b, abril 16). Spinal cord injury. https://www.who.int/news-room/fact-sheets/detail/spinal-cord-injury
 - [3] Volker Dietz, Karim Fouad, Restoration of sensorimotor functions after spinal cord injury, Brain, Volume 137, Issue 3, March 2014. https://academic.oup.com/brain/article/137/3/654/389117
 - [4] La estimulación eléctrica funcional (FES) para las lesiones de la médula espinal. MSKTC. (s. f.). https://msktc.org/sci/factsheets/la-estimulacion-electrica-funcional-fes-para-las-lesiones-de-la-medula-espinal
+
+asdas
