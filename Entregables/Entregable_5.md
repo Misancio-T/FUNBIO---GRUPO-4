@@ -75,3 +75,8 @@
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_38.png?raw=true" alt="ESP-32 2" width="700">
 </p>
+
+### Links de los Diseños
+
+- https://sketchfab.com/misaeltorresbautista/models
+- https://sketchfab.com/WilliamUPCH/models
