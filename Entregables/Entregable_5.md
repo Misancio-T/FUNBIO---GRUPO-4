@@ -8,4 +8,54 @@
 
 ## Modelado 3D de los componentes del concepto de la solución
 
-A continuacion vamos a presentar distintas perspectivas de nuestro modelado 3D
+### Banda en el brazo
+
+#### Diseños Importados
+
+**Batería de Litio**
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_29.png?raw=true" alt="Batería de Litio" width="900">
+</p>
+
+**LiPo Rider Plus**
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_30.png?raw=true" alt="LiPo Rider Plus" width="900">
+</p>
+
+**ESP-32**
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_31.png?raw=true" alt="ESP-32" width="900">
+</p>
+
+**Motor de vibracion**
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_32.png?raw=true" alt="Motor de vibracion" width="900">
+</p>
+
+#### Diseños Modelados
+
+**Parte Frontal**
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_33.png?raw=true" alt="Vista Frontal" width="900">
+</p>
+
+**Parte Trasera**
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_34.png?raw=true" alt="LiPo Rider Plus" width="900">
+</p>
+
+**Parte Intermedia**
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_35.png?raw=true" alt="ESP-32" width="900">
+</p>
+
+### Artefacto en el Zapato
+
+#### Diseños Importados
