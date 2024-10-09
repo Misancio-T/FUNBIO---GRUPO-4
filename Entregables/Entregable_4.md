@@ -24,9 +24,7 @@
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_20.png?raw=true" alt="Tabla de valoración" width="800">
 </p>
 
-## Recopilación de componentes
-
-En nuestro proyecto, para optimizar el tamaño del prototipo final, vamos a usar un microcontrolador que integra varios componentes e incluso nos proporciona funciones adicionales para mejorar nuestro prototipo. Este es el Atom Matrix.
+## Mas informacion acerca del Atom Matrix
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_27.jpg?raw=true" alt="Atom Matrix" width="900">
