@@ -6,7 +6,7 @@
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-Se describe un dispositivo electrónico alimentado por batería, que incluye uno o más sensores de presión en la zona del talón de una plantilla. Estos sensores están conectados a medios de alerta (sensorial, vibrador, luminoso o sonoro) que se activan al detectar la falta de presión adecuada. El dispositivo está protegido por una envoltura que contiene una batería recargable por energía solar, un interruptor y un temporizador para controlar su funcionamiento. Todos los componentes electrónicos se integran en la pieza durante su proceso de fabricación. [[1]] (https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Entregable_2.md#4-bibliograf%C3%ADa)
+Se describe un dispositivo electrónico alimentado por batería, que incluye uno o más sensores de presión en la zona del talón de una plantilla. Estos sensores están conectados a medios de alerta (sensorial, vibrador, luminoso o sonoro) que se activan al detectar la falta de presión adecuada. El dispositivo está protegido por una envoltura que contiene una batería recargable por energía solar, un interruptor y un temporizador para controlar su funcionamiento. Todos los componentes electrónicos se integran en la pieza durante su proceso de fabricación. [1]
 </p>
 <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_8.png?raw=true" alt="Plantilla inteligente para educar posturas al caminar" width="240">
 
@@ -21,7 +21,7 @@ Fuente: https://patentscope.wipo.int/search/es/detail.jsf?docId=WO2016181002&_ci
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-El producto es una calzado diseñado para mejorar la sensibilidad al caminar, que permite al usuario sentir los contornos del terreno a través de ella, proporcionado una retroalimentación propioceptiva mejorada. Este diseño permite que el usuario perciba movimientos de la suela y el suelo con mayor precisión, mejorando la comodidad y el control al caminar, mejorando la propiocepción. [[2]](https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Entregable_2.md#4-bibliograf%C3%ADa)
+El producto es una calzado diseñado para mejorar la sensibilidad al caminar, que permite al usuario sentir los contornos del terreno a través de ella, proporcionado una retroalimentación propioceptiva mejorada. Este diseño permite que el usuario perciba movimientos de la suela y el suelo con mayor precisión, mejorando la comodidad y el control al caminar, mejorando la propiocepción. [2]
 </p>
 <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_9.png?raw=true" alt="Calzado que incluye una construcción durable de combinación" width="450">
 
@@ -36,7 +36,7 @@ Fuente: https://patents.google.com/patent/ES2715856T3/
 
 <p style="line-height: 1.2;">
 <strong>Descripción:</strong><br>
-Walkasins es una prótesis sensorial portátil diseñada primordialmente para personas con neuropatía sensorial periférica que han perdido la sensibilidad en los pies, lo que afecta su equilibrio y aumenta el riesgo de caídas. El dispositivo funciona detectando la presión en la planta del pie mediante un sensor colocado en la plantilla. Esta información es enviada a una distancia cercana como es el tobillo y transforma esta señal en estímulos. Esos estímulos se transmiten en tiempo real a diferentes áreas de la pierna (delantera, trasera, izquierda y derecha), donde la sensibilidad de la piel todavía está presente. Esta retroalimentación vibratoria permite que el cerebro integre la nueva información sensorial, compensando la pérdida de sensación en la planta del pie. Como resultado, el usuario obtiene un mejor control de la postura y el equilibrio, lo que reduce que el paciente camine de manera inestable y pueda ocasionar caídas. [[3]](https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Entregable_2.md#4-bibliograf%C3%ADa)
+Walkasins es una prótesis sensorial portátil diseñada primordialmente para personas con neuropatía sensorial periférica que han perdido la sensibilidad en los pies, lo que afecta su equilibrio y aumenta el riesgo de caídas. El dispositivo funciona detectando la presión en la planta del pie mediante un sensor colocado en la plantilla. Esta información es enviada a una distancia cercana como es el tobillo y transforma esta señal en estímulos. Esos estímulos se transmiten en tiempo real a diferentes áreas de la pierna (delantera, trasera, izquierda y derecha), donde la sensibilidad de la piel todavía está presente. Esta retroalimentación vibratoria permite que el cerebro integre la nueva información sensorial, compensando la pérdida de sensación en la planta del pie. Como resultado, el usuario obtiene un mejor control de la postura y el equilibrio, lo que reduce que el paciente camine de manera inestable y pueda ocasionar caídas. [3]
 </p>
 <img align='right' src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_16.png?raw=true" alt="Walkasins by RxFunction" width="450">
 
