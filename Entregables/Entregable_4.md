@@ -3,25 +3,25 @@
 ## Caja negra (Lista de entradas y salidas)
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_18.png?raw=true" alt="Caja Negra" width="800">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_18.png?raw=true" alt="Caja Negra" width="800">
 </p>
 
 ## Esquema de funciones
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_19.png?raw=true" alt="Esquema de funciones" width="800">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_19.png?raw=true" alt="Esquema de funciones" width="800">
 </p>
 
 ## Matriz morfológica
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_21.png?raw=true" alt="Matriz morfológica" width="800">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_21.png?raw=true" alt="Matriz morfológica" width="800">
 </p>
 
 ## Tabla de valoración
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_20.png?raw=true" alt="Tabla de valoración" width="800">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_20.png?raw=true" alt="Tabla de valoración" width="800">
 </p>
 
 ## Recopilación de componentes
@@ -29,7 +29,7 @@
 En nuestro proyecto, para optimizar el tamaño del prototipo final, vamos a usar un microcontrolador que integra varios componentes e incluso nos proporciona funciones adicionales para mejorar nuestro prototipo. Este es el Atom Matrix.
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_27.jpg?raw=true" alt="Atom Matrix" width="900">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_27.jpg?raw=true" alt="Atom Matrix" width="900">
 </p>
 
 ## Conclusión del concepto de solución elegido
@@ -42,16 +42,16 @@ La propuesta número 1 fue la ganadora por su acceso relativamente accesible y l
 
 | **Opcion 1** | **Opcion 2** | **Opcion 3** |
 |--------------|--------------|--------------|
-|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_22.png?raw=true" alt="Plantilla 1" width="700"></p>|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_23.png?raw=true" alt="Plantilla 1" width="850"></p>|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_24.png?raw=true" alt="Plantilla 1" width="770"></p>|
+|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_22.png?raw=true" alt="Plantilla 1" width="700"></p>|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_23.png?raw=true" alt="Plantilla 1" width="850"></p>|<p align="center"><img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_24.png?raw=true" alt="Plantilla 1" width="770"></p>|
 
 **En todas las opciones se conserva la vista lateral**
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_25.png?raw=true" alt="Plantilla lateral" width="450">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_25.png?raw=true" alt="Plantilla lateral" width="450">
 </p>
 
 ### En los brazos
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_26.jpg?raw=true" alt="Brazos" width="900">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_26.jpg?raw=true" alt="Brazos" width="900">
 </p>
