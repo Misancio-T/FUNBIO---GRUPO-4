@@ -29,7 +29,7 @@
 En nuestro proyecto para poder optimizar el tamaño del prototipo final vamos a usar un microcontrolador que resume varios componentes e incluso nos proporciona componentes extra para poder mejorar nuestro prototipo, este es el Atom Matrix.
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_27.jpg?raw=true" alt="Plantilla lateral" width="850">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_27.jpg?raw=true" alt="Plantilla lateral" width="900">
 </p>
 
 ## Conclusión del concepto de solución elegido
