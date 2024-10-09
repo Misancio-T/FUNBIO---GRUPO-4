@@ -39,7 +39,7 @@ La propuesta número 4 fue la ganadora por su acceso relativamente accesible y l
 ### En el dispositivo del zapato
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_22-23-24-25.jpg?raw=true" alt="Plantilla lateral" width="450">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_22-23-24-25.jpg?raw=true" alt="Plantilla lateral" width="900">
 </p>
 
 ### En la banda de los brazos
