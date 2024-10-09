@@ -45,5 +45,5 @@ La propuesta número 1 fue la ganadora por su acceso relativamente accesible y l
 ### En los brazos
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_26.png?raw=true" alt="Brazos" width="800">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_25.png?raw=true" alt="Brazos" width="800">
 </p>
