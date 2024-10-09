@@ -32,7 +32,7 @@
 
 ## Conclusión del concepto de solución elegido
 
-La propuesta número 4 fue la ganadora por su acceso relativamente accesible y la efectividad de su uso. Ya que los componentes seleccionados se comunican sin necesidad de cables, haciendo cómodo y adaptable a su uso en las zapatillas. Además de su rapidez en las notificaciones del sensor de presión y su fácil uso de los pacientes.
+La propuesta número **4** fue la ganadora por su acceso relativamente accesible y la efectividad de su uso. Ya que los componentes seleccionados se comunican sin necesidad de cables, haciendo cómodo y adaptable a su uso en las zapatillas. Además de su rapidez en las notificaciones del sensor de presión y su fácil uso de los pacientes.
 
 ## Bocetos
 
