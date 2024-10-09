@@ -25,7 +25,7 @@ Para clasificar a cada paciente, nuestros centros de rehabilitación siguen los 
 Internacional Standards for Neurological Classification of SCI (ISNCSCI) Worksheet
 </p>
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_3.png?raw=true" alt="Descripción de la imagen" width="50%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_3.png?raw=true" alt="Descripción de la imagen" width="50%">
 </p>
 <p style="line/height: 1;">
 Extraido de: https://asia-spinalinjury.org/international-standards-neurological-classification-sci-isncsci-worksheet/
@@ -40,7 +40,7 @@ Según la Revista Médica Herediana, las revisiones sobre la repercusión de la 
 Características generales del paciente con lesión medular 
 </p>
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_4.png?raw=true" alt="Descripción de la imagen" width="50%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_4.png?raw=true" alt="Descripción de la imagen" width="50%">
 </p>
 <p style="line/height: 1;">
 Extraido de: https://doi.org/10.20453/rmh.v33i2.4243
@@ -51,7 +51,7 @@ Extraido de: https://doi.org/10.20453/rmh.v33i2.4243
 Repercusión familiar por áreas y global en pacientes con lesión medular 
 </p>
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_5.png?raw=true" alt="Descripción de la imagen" width="65%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_5.png?raw=true" alt="Descripción de la imagen" width="65%">
 </p>
 <p style="line/height: 1;">
 Extraido de: https://doi.org/10.20453/rmh.v33i2.4243
@@ -87,7 +87,7 @@ Los accidentes automovilísticos son la principal causa de lesiones más recient
 Estadisticas de las causas de lesiones medulares 
 </p>
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_7.png?raw=true" alt="Descripción de la imagen" width="50%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_7.png?raw=true" alt="Descripción de la imagen" width="50%">
 </p>
 <p style="line/height: 1;">
 Extraido de: https://msktc.org/sites/default/files/FactsFigures2021-Spanish-508.pdf
@@ -100,7 +100,7 @@ A nivel neurológico y magnitud de lesión la tetraplejia incompleta es la categ
 Estadisticas de la magnitud de la lesión en lesiones medulares 
 </p>
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_1.png?raw=true" alt="Descripción de la imagen" width="57%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_1.png?raw=true" alt="Descripción de la imagen" width="57%">
 </p>
 <p style="line/height: 1;">
 Extraido de: https://msktc.org/sites/default/files/FactsFigures2021-Spanish-508.pdf
@@ -113,7 +113,7 @@ También, observamos que el promedio de esperanza de vida de las personas con SC
 Esperanza de vida (años) después de la lesión según la gravedad de la lesión y la edad al lesionarse 
 </p>
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_2.png?raw=true" alt="Descripción de la imagen" width="100%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_2.png?raw=true" alt="Descripción de la imagen" width="100%">
 </p>
 <p style="line/height: 1;">
 Extraido de: https://msktc.org/sites/default/files/FactsFigures2021-Spanish-508.pdf
@@ -125,7 +125,7 @@ Extraido de: https://msktc.org/sites/default/files/FactsFigures2021-Spanish-508.
 Falta de información sensorial en el cuerpo de un paciente con lesión medular.
 </p>
 <p align="center">
-  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/FunBio_imagen_6.png?raw=true" alt="Descripción de la imagen" width="100%">
+  <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_6.png?raw=true" alt="Descripción de la imagen" width="100%">
 </p>
 <p style="line/height: 1;">
 Extraido de: Elaboración propia
