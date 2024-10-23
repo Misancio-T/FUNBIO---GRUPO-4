@@ -66,11 +66,13 @@
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_36.png?raw=true" alt="Vista Frontal 2" width="700">
 </p>
 
-**Parte Trasera**
+**Diseño Interno**
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_37.png?raw=true" alt="LiPo Rider Plus 2" width="700">
 </p>
+
+**Parte Trasera**
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_38.png?raw=true" alt="ESP-32 2" width="700">
