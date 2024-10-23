@@ -32,14 +32,14 @@ Los pacientes con lesiones medulares requieren terapia física y ocupacional ext
 
 ### Descripción de la Solución
 
-**Nuestra propuesta de solución es un Dispositivo de Alerta de Pasos en base a una retroalimentación táctil.** Este estaría compuesto por cuatro partes: dos en los pies (dispositivos de asistencia con sensores) y dos en el pecho (Receptores vibradores). Los sensores detectan cuándo el pie hace contacto con el suelo o cuando el usuario ha dado un paso. Estos sensores envían una señal al dispositivo en los brazos, que vibrará para alertar al usuario que efectivamente ha puesto un pie, proporcionando una retroalimentación táctil al usuario, el cual no llega a tener sensación física en sus pies debido a una lesión medular o uso de prótesis.
+**Nuestra propuesta de solución es un Dispositivo de Alerta de Pasos en base a una retroalimentación sensorial.** Este estaría compuesto por cuatro partes: dos en los pies (dispositivos de deteccion de movimiento con sensores) y dos en los brazos (Receptores vibradores). Los sensores detectan cuándo el pie se inclina al realizar una fase de la marcha y lanza una señal hacia el dispositivo en los brazos. El dispositivo en los brazos recibe la señal, lo cual ocacionara que vibre para alertar al usuario que efectivamente ha completado una fase de la marcha, proporcionando una retroalimentación sensorial al usuario, el cual no llega a tener sensación física en sus pies debido a una lesión medular o uso de prótesis.
 
 ### Características del Prototipo
-**Emplea:** Dos acelerómetros Atom, estos se encontrarán sujetos a la parte superior del calzado, y se encargará de detectar mediante mediciones de ángulos el contacto de los pies con el suelo.
+**Emplea:** Dos acelerómetros MPU6886, estos se encontrarán sujetos a la parte superior del empeine del pie, y se encargará de detectar mediante giroscopio el angulo de inclinacion del pie.
 
 **Transmisión inalámbrica con ESP32:** La señal recibida por los sensores en los pies se enviarán de forma inalámbrica desde los sensores al receptor en los brazos usando la conectividad Wi-fi/Bluetooth de este chip.
 
-**Receptor vibratorio en el brazo:** Dos dispositivos vibratorios compactos, que pueden llevarse como bandas, emitirán una vibración en cada brazo cuando se reciba la señal del sensor del pie, alertando al usuario de que ha dado un paso.
+**Receptor vibratorio en el brazo:** Dos dispositivos vibratorios compactos, que pueden llevarse como bandas, emitirán una vibración en cada brazo cuando se reciba la señal del sensor del pie, alertando al usuario de que ha dado completado una fase de la marcha.
 
 **Fuente de energía:** Baterías de Litio, son pequeñas y más sencillas de implementar en nuestro dispositivo que busca la simplicidad.
 
@@ -47,7 +47,7 @@ Los pacientes con lesiones medulares requieren terapia física y ocupacional ext
 
 **Mejorar la percepción del movimiento:** El usuario aumentaría su conciencia sobre la posición de sus pies durante la marcha, lo cual es bastante necesario para una persona con lesión medular o amputaciones las cuales no pueden llegar a sentir sus pies.
 
-**Facilidad de rehabilitación:** Ayudaría al usuario a desarrollar y ajustar su marcha durante la rehabilitación, al recibir esta retroalimentación táctil en tiempo real sobre cuando sus pies están tocando el suelo. Hay dispositivos que brindan esta retroalimentación táctil, sin embargo la señal se suele envíar a lugares muy cercanos y no incluyen a usuarios que pueden tener mayor sensibilidad en una zona alejada a la planta de los pies.
+**Facilidad de rehabilitación:** Ayudaría al usuario a desarrollar y ajustar su marcha durante la rehabilitación, al recibir esta retroalimentación sensorial en tiempo real cuando sus pies están realizando la marcha. Hay dispositivos que brindan esta retroalimentación sensorial, sin embargo la señal se suele envíar a lugares muy cercanos y no incluyen a usuarios que pueden tener mayor sensibilidad en una zona alejada a la planta de los pies.
 
 **Diseño no invasivo y discreto:** A comparación de otros exoesqueletos grandes, o que requieren gran cantidad de componentes y cables, este sería ligero, fácil de usar y no requeriría cables, todo ello facilitando su integración en el día a día del paciente.
 
@@ -60,8 +60,8 @@ Hemos evaluado el desarrollo del prototipo y este es técnicamente viable utiliz
 - ESP32 para la conectividad inalámbrica y procesamiento de señales.
 - Acelerómetros ya ampliamente utilizados en diversos dispositivos para las detecciones de ángulos y posición
 - Baterías pequeñas como las baterías de litio, pueden proporcionar la energía necesaria para el funcionamiento continuo del dispositivo.
-- Conocimientos básicos de electrónica y programación para integrar los sensores con el ESP32, configurar el sistema de transmisión y programar el mecanismo de vibración en el receptor del pecho.
-- Impresión 3D o adaptación de materiales para crear las carcasas de los componentes, como las plantillas que se colocarán en los pies y el dispositivo vibratorio del pecho.
+- Conocimientos básicos de electrónica y programación para integrar los sensores con el ESP32, configurar el sistema de transmisión y programar el mecanismo de vibración en el receptor de los brazos.
+- Impresión 3D o adaptación de materiales para crear las carcasas de los componentes, como las plantillas que se colocarán en los pies y el dispositivo vibratorio en los brazos.
 
 ## Coherencia
 
@@ -79,7 +79,7 @@ El objetivo general del proyecto es desarrollar un sistema de feedback sensorial
 
 **Objetivos específicos**
 
-- Diseño de dispositivos de asistencia con acelerómetros, los sensores del tipo acelerómetro son eficaces para detectar ángulos y movimiento en dispositivos portátiles, así como también el contacto del pie con el suelo brinda información crítica sobre la postura y los movimientos del paciente.
+- Diseño de dispositivos de deteccion con acelerómetros, los sensores del tipo acelerómetro son eficaces para detectar ángulos y movimiento en dispositivos portátiles, este brinda información crítica sobre las fases de la marcha del paciente.
 - Desarrollar el diseño de bandas vibratorias para el feedback sensorial que proporciona estímulos vibratorios específicos en respuesta a las señales captadas por los sensores, simulando la retroalimentación sensorial que falta debido a la lesión medular.
 - La comunicación inalámbrica entre los dispositivos, se refiere a implementar un sistema de comunicación eficiente y sin cables que permite una rapidez en la interacción de los diferentes componentes del dispositivo.
 - Optimizar materiales para entornos de bajos recursos, el diseño de soluciones asequibles y portátiles es crucial para provincia y áreas rurales donde el acceso a tecnologías avanzadas es limitado.
@@ -103,7 +103,7 @@ Nuestra propuesta no está limitada a pacientes con las extremidades presentes, 
 
 ### Alineación con el Problema
 
-Nuestro prototipo aborda la pérdida de retroalimentación sensorial y control motor en personas con lesiones medulares, especialmente durante la bipedestación y la marcha. Al utilizar dispositivos de asistencia con acelerómetros, se capta la posición y los movimientos de los pies cuando entran en contacto con la superficie, información crítica que los pacientes no pueden percibir naturalmente. Estos sensores recopilan datos sobre la posición y los ángulos, aunque los pacientes no pueden sentir directamente esta información los datos son enviados a través de bandas vibratorias, estas vibraciones actúan como una forma de sensor artificial, proporcionando al cerebro información sobre la posición y postura, ayudando al equilibrio del paciente.
+Nuestro prototipo aborda la pérdida de retroalimentación sensorial y control motor en personas con lesiones medulares, especialmente durante la bipedestación y la marcha. Al utilizar dispositivos de deteccion con acelerómetros, se capta la inclinacion y el movimientos de los pies cuando entran en contacto con la superficie, información crítica que los pacientes no pueden percibir naturalmente. Estos sensores recopilan datos sobre la posición y los ángulos, aunque los pacientes no pueden sentir directamente esta información los datos son enviados a través de bandas vibratorias, estas vibraciones actúan como una forma de sensor artificial, proporcionando al cerebro información sobre la posición y postura, ayudando al equilibrio del paciente.
 
 ## Resumen
 
