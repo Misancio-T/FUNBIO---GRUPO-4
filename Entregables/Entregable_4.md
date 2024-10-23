@@ -47,3 +47,4 @@ La propuesta número **4** fue la ganadora por su acceso relativamente accesible
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_26.jpg?raw=true" alt="Brazos" width="900">
 </p>
+
