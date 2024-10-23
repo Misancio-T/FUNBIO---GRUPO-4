@@ -92,8 +92,8 @@ Fuente: https://rxfunction.com/our-product/
 
 ## 3. Propuesta de solución
 
-**Plantilla con sensores de presión**
-- Dispositivo enfocado en la complementación de los estímulos vestibulares capaz de detectar el contacto entre el suelo y el pie del usuario mediante sensores que permiten generar vibraciones en un paciente que realiza bipedestación y/o marcha” (Lesión medular tipo A)
+**Dispositivo con deteccion de movimiento + Banda de vibración**
+- Dispositivo enfocado en la traslado inalambrico de la sensación háptica durante las fases de la marcha hacia los brazos, donde se percibe mediante vibraciones. El dispositivo se utilizaria principalmente en rehabilitación. (Lesión medular tipo A)
 
 ## 4. Bibliografía
 
