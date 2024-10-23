@@ -110,7 +110,7 @@ Nuestro prototipo aborda la pérdida de retroalimentación sensorial y control m
 ### Problema y propuesta de solución
 El problema aborda la **pérdida de retroalimentación sensorial y control motor** de personas con **lesiones medulares completas de tipo A**, lo que afecta la capacidad de caminar y mantenerse de pie. Esta falta de sensibilidad genera una dependencia de dispositivos de asistencia que afecta negativamente la calidad de vida y de tratamiento del paciente que retrasa su rehabilitación.
 
-La propuesta de solución es un **sistema feedback sensorial artificial** que utiliza **plantillas con sensores piezoeléctricos y bandas vibratorias.** La plantilla capta la presión del pie en puntos claves al caminar o estar de pie, que envían señales a las bandas vibratorias proporcionando retroalimentación táctil en tiempo real, ayudando a restaurar la percepción corporal perdida. Este dispositivo **mejora la propiocepción reduciendo el riesgo de caídas,** y **permite al paciente recuperar su autonomía** mejorando su equilibrio y estabilidad.
+La propuesta de solución es un **sistema feedback sensorial artificial** que utiliza **un dispositivo de medida de posicion y bandas vibratorias.** El dispositivo capta las fases de la marcha al caminar o estar de pie, que envían señales a las bandas vibratorias proporcionando retroalimentación táctil en tiempo real, ayudando a restaurar la percepción corporal perdida. Este dispositivo **mejora la propiocepción reduciendo el riesgo de caídas,** y **permite al paciente recuperar su autonomía** mejorando su equilibrio y estabilidad.
 
 ### Resultados esperados
 
