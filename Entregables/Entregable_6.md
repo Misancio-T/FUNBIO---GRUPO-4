@@ -12,22 +12,24 @@
 
 #### Ejecucion del codigo arduino
 
-- **Codigo en Arduino:**
+**Codigo en Arduino**
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_45.png?raw=true" alt="Codigo de Programacion" width="600">
-</p>
-
-- **Diagrama de Flujo de Datos**
-
-<p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_46.png?raw=true" alt="Codigo de Programacion" width="600">
 </p>
 
 #### Prototipado electrónico
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_39.png?raw=true" alt="Esquema Electrónico" width="900">
+</p>
+
+### Sofware
+
+Para hacer una introduccion al sofware vamos a presentar nuestro **Diagrama de Flujo de Datos** de nuestro codigo
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_46.png?raw=true" alt="DFD" width="600">
 </p>
 
 ### Impresión 3D
@@ -85,7 +87,8 @@
 - **Problema 2:** Es posible que en el modelo 3D de la sección correspondiente al pie necesite un pequeño cambio que facilite la conectividad del Lipo Rider Plus y el Atom Matrix.
 - **Problema 3:** Otra posible área de mejora en el modelo 3D de la sección del pie es el anclaje del interruptor de encendido y apagado. Una revisión en el diseño del anclaje podría proporcionar un mejor ajuste y estabilidad, previniendo movimientos no deseados durante el uso y brindar un acceso más práctico al switch.
 - **Problema 4:** Refinar el código actual. Necesitamos garantizar que la medición de los datos en tiempo real por parte del Atom Matrix sea confiable y estable, y de esta manera enviar la información del Atom al ESP32.
-- **Aspectos a mejorar:** Actualmente, la duración de la batería en modo de uso continuo es de aproximadamente dos horas, lo cual podría ser insuficiente para ciertos escenarios de uso. Para mejorar ello podríamos usar una batería de mayor amperaje para extender la autonomía o, alternativamente, implementar un modo de suspensión en el código que permita reducir el consumo energético cuando el dispositivo no esté en uso activo.
+
+**Aspectos a mejorar:** Actualmente, la duración de la batería en modo de uso continuo es de aproximadamente dos horas, lo cual podría ser insuficiente para ciertos escenarios de uso. Para mejorar ello podríamos usar una batería de mayor amperaje para extender la autonomía o, alternativamente, implementar un modo de suspensión en el código que permita reducir el consumo energético cuando el dispositivo no esté en uso activo.
 
 ### Identificar retos y limitaciones
 
