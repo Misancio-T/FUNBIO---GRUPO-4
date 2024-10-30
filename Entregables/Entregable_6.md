@@ -15,13 +15,13 @@
 - **Codigo en Arduino:**
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_45.jpg?raw=true" alt="Codigo de Programacion" width="600">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_45.png?raw=true" alt="Codigo de Programacion" width="600">
 </p>
 
 - **Diagrama de Flujo de Datos**
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_46.jpg?raw=true" alt="Codigo de Programacion" width="600">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_46.png?raw=true" alt="Codigo de Programacion" width="600">
 </p>
 
 #### Prototipado electrónico
@@ -90,11 +90,11 @@
 ### Identificar retos y limitaciones
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_44.png?raw=true" alt="Identificar retos y limitaciones" width="900">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_44.png?raw=true" alt="Identificar retos y limitaciones" width="700">
 </p>
 
 ### Propuesta de soluciones
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_47.png?raw=true" alt="Identificar retos y limitaciones" width="900">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_47.png?raw=true" alt="Identificar retos y limitaciones" width="700">
 </p>
