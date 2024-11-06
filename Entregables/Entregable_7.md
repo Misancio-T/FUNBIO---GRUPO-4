@@ -12,12 +12,6 @@
 
 #### Ejecucion del codigo arduino
 
-Para hacer una introduccion al sofware vamos a presentar nuestro **Diagrama de Flujo de Datos** de nuestro codigo
-
-<p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_46.jpg?raw=true" alt="DFD" width="600">
-</p>
-
 **Codigo en Arduino**
 
 <p align="center">
@@ -28,6 +22,14 @@ Para hacer una introduccion al sofware vamos a presentar nuestro **Diagrama de F
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_39.png?raw=true" alt="Esquema Electrónico" width="900">
+</p>
+
+### Sofware
+
+Para hacer una introduccion al sofware vamos a presentar nuestro **Diagrama de Flujo de Datos** de nuestro codigo
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_46.jpg?raw=true" alt="DFD" width="600">
 </p>
 
 ### Impresión 3D
