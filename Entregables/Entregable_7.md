@@ -101,3 +101,13 @@ Para hacer una introduccion al sofware vamos a presentar nuestro **Diagrama de F
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_47.png?raw=true" alt="Identificar retos y limitaciones" width="700">
 </p>
+
+## Avances de esta semana
+
+En esta semana ya se mandaron las piezas a imprimir y con los componentes la pieza se ve asi
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_48.jpg?raw=true" alt="Identificar retos y limitaciones" width="700">
+</p>
+
+Tambien se avanzo con la electronica en la otra pieza del Dispositivo, el video de la prueba se encuentra en el siguiente [link](https://youtu.be/BZDEhf-5Vok)
