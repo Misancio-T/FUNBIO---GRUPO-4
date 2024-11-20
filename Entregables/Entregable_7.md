@@ -111,3 +111,37 @@ En esta semana ya se mandaron las piezas a imprimir y con los componentes la pie
 </p>
 
 Tambien se avanzo con la electronica en la otra pieza del Dispositivo, el video de la prueba se encuentra en el siguiente [link](https://youtu.be/BZDEhf-5Vok)
+
+## Retroalimentación
+
+**- ¿Te parece atractivo el diseño visual del dispositivo?**
+
+Sí, se ve atractivo e innovador para aquellos pacientes con lesión medular con indicación para la marcha. 
+
+**- ¿El tamaño, forma y color del dispositivo parecen adecuados?**
+
+Sí, por todas las sugerencias que se han dado y como se ha estado procediendo con la parte electrónica, está bien la adaptación.
+
+**- ¿Consideras que las partes de contacto con el usuario se ven cómodas?**
+
+No está siendo invasivo para el usuario, puesto que es externo y va en una parte donde el usuario no tiene sensibilidad, por lo cual no incomodaría o afectaría el confort del paciente.
+
+**- ¿La ubicación de los controles parece accesible y fácil de manejar?**
+
+Sí, todo es vía bluetooth.
+
+**- ¿Las funciones del dispositivo son claras?**
+
+Sí,siempre y cuando haya las indicaciones y las preparaciones para el usuario, ello esclarecerá todo para el usuario; las partes técnicas serán brindadas por el terapeuta.
+
+**- ¿Te parece intuitivo el uso del dispositivo según el diseño?**
+
+No, debe de haber una preparación previa.
+
+**- ¿Identificas alguna área en el diseño que podría ser problemática en uso real?**
+
+No se ven áreas del diseño que podrían ser problemáticas; sin embargo, el peor de los casos, es que el usuario no entienda el funcionamiento del dispositivo luego de la explicación.
+
+**- ¿Hay algo que cambiarías en el diseño antes de hacer una versión física?**
+
+El tema del color, por ahora el blanco va bien para mantener la estética y la armonía de colores. Por ahora como prototipo todo está bien.
