@@ -39,11 +39,73 @@ Los componentes principales que interactúan en este prototipo son el Atom Matri
 
 ### Diagrama de integración
 
-**Falta actualizar el diagrama electrico**
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_28.png?raw=true" alt="Esquema Electrónico" width="900">
+</p>
 
 ## Proceso de Integración
 
-asdasdas
+### Plan Inicial de Integración
+
+**- Paso 1:** Desarrollo del Sistema en el Pie
+
+Configuración del ATOM PICO ESP32 para medir ángulos y convertirlos en grados de inclinación que al tener incluído el microcontrolador podemos visualizar los datos en tiempo real mediante un monitor serie con el objetivo de tener mediciones precisas y consistentes.
+
+Para la programación del microcontrolador (pie) creamos un programa para leer datos del sensor y transmitirlos por Bluetooth al dispositivo esclavo.
+
+Se prueban datos simulados desde el sensor a una laptop.
+
+**- Paso 2: Desarrollo del Sistema en el Brazo (dispositivo esclavo)**
+
+Programar el receptor Bluetooth para recibir datos enviados por el módulo del pie.  Posteriormente integrar y probar el motor de vibración para generar pulsos en función de los datos.  
+
+Se probó simulando la recepción de ángulos y activar las luces led, momentáneas, correctamente.
+
+**- Paso 3: Comunicación Bluetooth**
+
+Configurar el emparejamiento del módulo transmisor del pie con el receptor del brazo para verificar la estabilidad y velocidad de la conexión Bluetooth
+
+### Pruebas Intermedias
+
+**1. Prueba unitaria del sensor:**
+
+   Confirmar que el sensor mide correctamente los ángulos de inclinación.  
+
+**2. Prueba de transmisión Bluetooth:**  
+   
+   Evaluar la precisión y latencia de los datos enviados desde el pie al brazo.  
+
+**3. Prueba del motor de vibración:**  
+   
+   Ajustar la intensidad y duración de las vibraciones para que sean perceptibles sin ser incómodas.  
+
+### Objetivos
+
+1. Obtener mediciones angulares precisas del pie durante diferentes pisadas.
+
+2. Lograr una transmisión de datos Bluetooth con baja latencia y sin interrupciones.
+
+3. Generar una retroalimentación háptica en el brazo que sea intuitiva y fácil de interpretar.
+
+4. Implementar un diseño ergonómico y funcional para ambos módulos.
+
+### Desafíos y ajustes realizados
+
+**1. Calibración del Sensor de Ángulo**
+
+- Desafio
+
+La lectura del sensor era inconsistente debido a interferencias de movimiento no deseado y ruido en los datos, también el cuestionamiento de medida entre el ángulo o la altura.
+
+- Ajuste Realizado
+
+Ajuste de los valores iniciales mediante un proceso de calibración manual para establecer un punto de referencia (offset) y decisión de medida a angulo de giro..
+
+### Revisión de compatibilidad y sincronización
+
+<p align="center">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_49.png?raw=true" alt="Revision de componentes" width="600">
+</p>
 
 ## Pruebas y Verificación
 
@@ -61,4 +123,51 @@ Nuestro prototipo consta de 2 partes, un dispositivo que irá instalado en el pi
 
 ## Conclusiones y Próximos Pasos
 
-asdasdasd
+### Resumen de logros
+
+**Desarrollo del sistema en el pie:**
+
+- Configuración exitosa del ATOM ESP32 para medir y transmitir los datos angulares en tiempo real mediante Bluetooth permitiendo la presión y latencia de los datos enviados, esto se logró por el proceso de calibración manual para establecer un punto de referencia
+- Integración y prueba, logrando mediciones concretas de inclinación en los ejes 
+- Diseño funcional que incluye la pantalla LED del ATOM para retroalimentación visual al paciente y terapeuta
+- Cumplimiento del objetivo inicial, mide el movimiento
+- Prueba de la recepción de ángulos y activar las luces led momentáneamente exitosa
+
+**Desarrollo del sistema del brazo:**
+
+- Programación del receptor Bluetooth para recibir datos enviados desdes el dispositivo del pie 
+- Integración del motor vibrador exitosamente, sirviendo como mecanismo de retroalimentación háptica, genera los pulso en función de los datos enviados, se encuentra en la última fase y se espera que cumpla los objetivos 
+- Ajustes en la intensidad y duración de las vibraciones para asegurar una experiencia cómoda y efectiva para el paciente. 
+
+**Integración de comunicación Bluetooth:**
+
+- Establecimiento exitoso de un sistema maestro-esclavo entre los módulos del pie y del brazo, con transmisión de datos luida y de baja latencia.
+
+**Prueba de componentes:**
+
+- Verificación de las baterías, sensores, motores vibradores y módulos de Bluetooth
+- Se logró solucionar los problemas de conexión mediante la soldadura de los componentes y sustitución de cables para mejorar la estabilidad. 
+
+### Aspectos por mejorar: Discutir qué problemas aún existen o qué componentes requieren ajuste adicional
+
+1. Calibración y estabilidad del sensor de ángulos
+
+Aunque el sensor ya puede medir ángulos, para obtener mejor precisión de los datos es necesario optimizar su calibración para garantizar lecturas más precisas, sobre todo que responda a las condiciones dinámicas del movimiento del paciente. 
+
+2. Sincronización entre los componentes
+
+Aunque el sistema maestro-esclavo entre ambos componentes es exitoso, se podrían detectar ligeros retrasos en la transmisión de los datos.
+
+3. Duración de la batería:
+
+La autonomía actual de la baterías puede ser insuficiente para que se prolongue por toda las sesiones de rehabilitación
+
+4. Pruebas en condiciones reales
+
+Hasta la fecha no hemos podido probar nuestro componentes en situaciones reales para los casos de pacientes en los que nos enfocamos, por ahora solo se está haciendo simulaciones, esperamos realizar pruebas en condiciones más cercanas a nuestros pacientes para identificar problemas y posibles limitaciones con el objetivo de la mejora y avance de nuestro proyecto. 
+
+Aunque nuestro prototipo ha alcanzado un nivel satisfactorio a nuestras posibilidades, estos aspectos se pueden mejorar. Se espera que con las mejoras más adelante se puedan realizar las mejoras necesarias para la calibración, precisión, y duración de la batería. Si se logra solucionar este dispositivo será más preciso y confiable, garantizando así el objetivo y funcionamiento de Uyarai 
+
+### Siguientes fases del desarrollo: Describir los pasos próximos y cómo se enfocarán en mejoras o implementaciones futuras
+
+Las siguientes fases del desarrollo de nuestro prototipo se enfocarán en resolver los problemas técnicos de los componentes, se espera optimizar el diseño para que sea más accesible a todos los pacientes. Se espera además extender la funcionalidades del dispositivo para mejorar la experiencia entre el paciente y terapeuta Además se espera avanzar a la etapa de aprobación y pruebas clínicas. Esto permitirá que el prototipo evolucione hacia una solución más confiable para mejorar de esta forma la calidad de la vida de las personas con lesiones medulares. 
