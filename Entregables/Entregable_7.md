@@ -4,15 +4,15 @@
 
 ### Hardware Electronico
 
-#### Diseño esquemático del circuito
+#### Diseño esquemático del circuito (corregido)
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_28.png?raw=true" alt="Esquema Electrónico" width="900">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_56.png?raw=true" alt="Esquema Electrónico (corregido)" width="900">
 </p>
 
 #### Ejecucion del codigo arduino
 
-**Codigo en Arduino**
+**Codigo en Arduino para probar los componentes**
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_45.png?raw=true" alt="Codigo de Programacion" width="600">
@@ -24,7 +24,7 @@
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_39.png?raw=true" alt="Esquema Electrónico" width="900">
 </p>
 
-### Sofware
+### Diagrama de flujo del codigo final
 
 Para hacer una introduccion al sofware vamos a presentar nuestro **Diagrama de Flujo de Datos** de nuestro codigo
 

@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_54.png?raw=true" alt="Verificación de Diseño (Hardware)" width="600">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_54.jpg?raw=true" alt="Verificación de Diseño (Hardware)" width="600">
 </p>
 
 <p align="center">

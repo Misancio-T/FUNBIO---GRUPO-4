@@ -40,7 +40,7 @@ Los componentes principales que interactúan en este prototipo son el Atom Matri
 ### Diagrama de integración
 
 <p align="center">
-<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_28.png?raw=true" alt="Esquema Electrónico" width="900">
+<img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_56.png?raw=true" alt="Esquema Electrónico" width="900">
 </p>
 
 ## Proceso de Integración

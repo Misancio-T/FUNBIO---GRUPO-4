@@ -18,7 +18,7 @@ Para hacer una introduccion al sofware vamos a presentar nuestro **Diagrama de F
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_55.png?raw=true" alt="DFD" width="600">
 </p>
 
-**Codigo en Arduino**
+**Codigo en Arduino para probar los componentes**
 
 <p align="center">
 <img src="https://github.com/Misancio-T/FUNBIO---GRUPO-4/blob/main/Entregables/Resources/Imagenes/FunBio_imagen_45.png?raw=true" alt="Codigo de Programacion" width="600">
